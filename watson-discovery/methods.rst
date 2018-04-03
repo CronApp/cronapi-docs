@@ -1,364 +1,14 @@
 Métodos
 -------
 
-Criar espaço de trabalho
-========================
-Crie um espaço de trabalho com base na entrada JSON. Você deve fornecer dados JSON que definem o conteúdo do novo espaço de trabalho.
-
-Parãmetros
-~~~~~~~~~~
-
-O método Criar espaço de trabalho aceita os seguintes parãmetros para a sua execução:
-
-versionDate
-
-    A data da versão da API REST.
-
-username
-
-    Nome do usuário
-
-password
-
-    A senha
-
-endPoint
-
-    O novo endPoint da API.
-
-headers
-
-    Nome do cabeçalho que será usado na requisição HTTP.
-
-options
-
-    Opções do criar espaço de trabalho. Saiba mais: https://www.ibm.com/watson/developercloud/conversation/api/v1/#create_workspace
-
-.. include:: createWorkspace-ext.rst
-
-Excluir área de trabalho
-========================
-Exclua um área de trabalho da instância do serviço.
-
-Parãmetros
-~~~~~~~~~~
-
-O método Excluir área de trabalho aceita os seguintes parãmetros para a sua execução:
-
-versionDate
-
-    A data da versão da API REST.
-
-username
-
-    Nome do usuário
-
-password
-
-    A senha
-
-endPoint
-
-    O novo endPoint da API.
-
-headers
-
-    Nome do cabeçalho que será usado na requisição HTTP.
-
-options
-
-    Opções do excluir área de trabalho. Saiba mais: https://www.ibm.com/watson/developercloud/conversation/api/v1/#delete_workspace
-
-.. include:: deleteWorkspace-ext.rst
-
-Obter área de trabalho
-======================
-Obtenha informações sobre uma área de trabalho, opcionalmente incluindo todo o conteúdo da área de trabalho.
-
-Parãmetros
-~~~~~~~~~~
-
-O método Obter área de trabalho aceita os seguintes parãmetros para a sua execução:
-
-versionDate
-
-    A data da versão da API REST.
-
-username
-
-    Nome do usuário
-
-password
-
-    A senha
-
-endPoint
-
-    O novo endPoint da API.
-
-headers
-
-    Nome do cabeçalho que será usado na requisição HTTP.
-
-options
-
-    Opções do obter área de trabalho. Saiba mais: https://www.ibm.com/watson/developercloud/conversation/api/v1/#get_workspace
-
-.. include:: getWorkspace-ext.rst
-
-Lista áreas de trabalho
-=======================
-Lista as áreas de trabalho associadas a uma instância do serviço do Conversation.
-
-Parãmetros
-~~~~~~~~~~
-
-O método Lista áreas de trabalho aceita os seguintes parãmetros para a sua execução:
-
-versionDate
-
-    A data da versão da API REST.
-
-username
-
-    Nome do usuário
-
-password
-
-    A senha
-
-endPoint
-
-    O novo endPoint da API.
-
-headers
-
-    Nome do cabeçalho que será usado na requisição HTTP.
-
-options
-
-    Opções do lista áreas de trabalho. Saiba mais: https://www.ibm.com/watson/developercloud/conversation/api/v1/#list_workspaces
-
-.. include:: listWorkspaces-ext.rst
-
-Atualiza área de trabalho
-=========================
-Atualiza uma área de trabalho existente com dados novos ou modificados. Você deve fornecer dados JSON que definem o conteúdo da área de trabalho atualizado.
-
-Parãmetros
-~~~~~~~~~~
-
-O método Atualiza área de trabalho aceita os seguintes parãmetros para a sua execução:
-
-versionDate
-
-    A data da versão da API REST.
-
-username
-
-    Nome do usuário
-
-password
-
-    A senha
-
-endPoint
-
-    O novo endPoint da API.
-
-headers
-
-    Nome do cabeçalho que será usado na requisição HTTP.
-
-options
-
-    Opções do atualiza área de trabalho. Saiba mais: https://www.ibm.com/watson/developercloud/conversation/api/v1/#update_workspace
-
-.. include:: updateWorkspace-ext.rst
-
-Envia mensagem
-==============
-Obtenha uma resposta para a entrada de um usuário.
-
-Parãmetros
-~~~~~~~~~~
-
-O método Envia mensagem aceita os seguintes parãmetros para a sua execução:
-
-versionDate
-
-    A data da versão da API REST.
-
-username
-
-    Nome do usuário
-
-password
-
-    A senha
-
-endPoint
-
-    O novo endPoint da API.
-
-headers
-
-    Nome do cabeçalho que será usado na requisição HTTP.
-
-options
-
-    Opções do envia mensagem. Saiba mais: https://www.ibm.com/watson/developercloud/conversation/api/v1/#send_message
-
-.. include:: message-ext.rst
-
-Criar intenção
-==============
-Crie uma nova intenção.
-
-Parãmetros
-~~~~~~~~~~
-
-O método Criar intenção aceita os seguintes parãmetros para a sua execução:
-
-versionDate
-
-    A data da versão da API REST.
-
-username
-
-    Nome do usuário
-
-password
-
-    A senha
-
-endPoint
-
-    O novo endPoint da API.
-
-headers
-
-    Nome do cabeçalho que será usado na requisição HTTP.
-
-options
-
-    Opções do criar intenção. Saiba mais: https://www.ibm.com/watson/developercloud/conversation/api/v1/#create_intent
-
-.. include:: createIntent-ext.rst
-
-Excluir intenção
-================
-Exclua uma intenção de um espaço de trabalho.
-
-Parãmetros
-~~~~~~~~~~
-
-O método Excluir intenção aceita os seguintes parãmetros para a sua execução:
-
-versionDate
-
-    A data da versão da API REST.
-
-username
-
-    Nome do usuário
-
-password
-
-    A senha
-
-endPoint
-
-    O novo endPoint da API.
-
-headers
-
-    Nome do cabeçalho que será usado na requisição HTTP.
-
-options
-
-    Opções do excluir intenção. Saiba mais: https://www.ibm.com/watson/developercloud/conversation/api/v1/#delete_intent
-
-.. include:: deleteIntent-ext.rst
-
-Obter intenção
-==============
-Obtenha informações sobre uma intenção, incluindo opcionalmente todo o conteúdo intenção.
-
-Parãmetros
-~~~~~~~~~~
-
-O método Obter intenção aceita os seguintes parãmetros para a sua execução:
-
-versionDate
-
-    A data da versão da API REST.
-
-username
-
-    Nome do usuário
-
-password
-
-    A senha
-
-endPoint
-
-    O novo endPoint da API.
-
-headers
-
-    Nome do cabeçalho que será usado na requisição HTTP.
-
-options
-
-    Opções do obter intenção. Saiba mais: https://www.ibm.com/watson/developercloud/conversation/api/v1/#get_intent
-
-.. include:: getIntent-ext.rst
-
-Lista de intenções
-==================
-Lista as intenções para uma área de trabalho.
-
-Parãmetros
-~~~~~~~~~~
-
-O método Lista de intenções aceita os seguintes parãmetros para a sua execução:
-
-versionDate
-
-    A data da versão da API REST.
-
-username
-
-    Nome do usuário
-
-password
-
-    A senha
-
-endPoint
-
-    O novo endPoint da API.
-
-headers
-
-    Nome do cabeçalho que será usado na requisição HTTP.
-
-options
-
-    Opções de Lista de intenções. Saiba mais: https://www.ibm.com/watson/developercloud/conversation/api/v1/#get_intents
-
-.. include:: listIntents-ext.rst
-
-Atualiza intenção
+Criar um ambiente
 =================
-Atualiza uma intenção existente com dados novos ou modificados. Você deve fornecer dados JSON que definem o conteúdo da intenção atualizada.
+Cria um ambiente para a instância do serviço.
 
 Parãmetros
 ~~~~~~~~~~
 
-O método Atualiza intenção aceita os seguintes parãmetros para a sua execução:
+O método Criar um ambiente aceita os seguintes parãmetros para a sua execução:
 
 versionDate
 
@@ -382,18 +32,18 @@ headers
 
 options
 
-    Opções do atualiza intenção. Saiba mais: https://www.ibm.com/watson/developercloud/conversation/api/v1/#update_intent
+    Opções do Criar um ambiente. Mais: https://www.ibm.com/watson/developercloud/discovery/api/v1/#create_environment
 
-.. include:: updateIntent-ext.rst
+.. include:: createEnvironment-ext.rst
 
-Criar exemplo
-=============
-Adicione um novo exemplo de entrada do usuário a uma intenção.
+Excluir um ambiente
+===================
+Exclui um ambiente existente.
 
 Parãmetros
 ~~~~~~~~~~
 
-O método Criar exemplo aceita os seguintes parãmetros para a sua execução:
+O método Excluir um ambiente aceita os seguintes parãmetros para a sua execução:
 
 versionDate
 
@@ -417,18 +67,18 @@ headers
 
 options
 
-    Opções do criar exemplo. Saiba mais: https://www.ibm.com/watson/developercloud/conversation/api/v1/#create_example
+    Opções do Excluir um ambiente. Mais: https://www.ibm.com/watson/developercloud/discovery/api/v1/?java#delete_environment
 
-.. include:: createExample-ext.rst
+.. include:: deleteEnvironment-ext.rst
 
-Excluir exemplo
-===============
-Exclua a intenção do exemplo da entrada do usuário.
+Lista de detalhes do ambiente
+=============================
+Obtém informações detalhadas sobre o ambiente especificado.
 
 Parãmetros
 ~~~~~~~~~~
 
-O método Excluir exemplo aceita os seguintes parãmetros para a sua execução:
+O método Lista de detalhes do ambiente aceita os seguintes parãmetros para a sua execução:
 
 versionDate
 
@@ -452,88 +102,18 @@ headers
 
 options
 
-    Opções do excluir exemplo. Saiba mais: https://www.ibm.com/watson/developercloud/conversation/api/v1/#delete_example
+    Opções do Lista detalhes do ambiente. Mais: https://www.ibm.com/watson/developercloud/discovery/api/v1/#list_environment_details
 
-.. include:: deleteExample-ext.rst
+.. include:: getEnvironment-ext.rst
 
-Obter exemplo
-=============
-Obtenha informações sobre um exemplo de entrada do usuário.
-
-Parãmetros
-~~~~~~~~~~
-
-O método Obter exemplo aceita os seguintes parãmetros para a sua execução:
-
-versionDate
-
-    A data da versão da API REST.
-
-username
-
-    Nome do usuário
-
-password
-
-    A senha
-
-endPoint
-
-    O novo endPoint da API.
-
-headers
-
-    Nome do cabeçalho que será usado na requisição HTTP.
-
-options
-
-    Opções do obter de exemplo. Saiba mais: https://www.ibm.com/watson/developercloud/conversation/api/v1/#get_example
-
-.. include:: getExample-ext.rst
-
-Lista exemplos
-==============
-Lista os exemplos de entradas do usuário por intenção.
-
-Parãmetros
-~~~~~~~~~~
-
-O método Lista exemplos aceita os seguintes parãmetros para a sua execução:
-
-versionDate
-
-    A data da versão da API REST.
-
-username
-
-    Nome do usuário
-
-password
-
-    A senha
-
-endPoint
-
-    O novo endPoint da API.
-
-headers
-
-    Nome do cabeçalho que será usado na requisição HTTP.
-
-options
-
-    Opções do Lista exemplos. Saiba mais: https://www.ibm.com/watson/developercloud/conversation/api/v1/#get_examples
-
-.. include:: listExamples-ext.rst
-
-Atualiza exemplo
+Listar ambientes
 ================
-Atualiza o texto de um exemplo de entrada do usuário.
+Lista os ambientes existentes para a instância do serviço.
 
 Parãmetros
 ~~~~~~~~~~
 
-O método Atualiza exemplo aceita os seguintes parãmetros para a sua execução:
+O método Listar ambientes aceita os seguintes parãmetros para a sua execução:
 
 versionDate
 
@@ -557,18 +137,18 @@ headers
 
 options
 
-    Opções de atualiza exemplo. Saiba mais: https://www.ibm.com/watson/developercloud/conversation/api/v1/#update_example
+    Opções do Listar ambientes. Mais: https://www.ibm.com/watson/developercloud/discovery/api/v1/?java#list_environments
 
-.. include:: updateExample-ext.rst
+.. include:: listEnvironments-ext.rst
 
-Criar entidade
-==============
-Crie uma nova entidade.
+Listar campos em coleções especificadas
+=======================================
+Obtém uma lista dos campos únicos (e seus tipos) armazenados nos índices das coleções especificadas.
 
 Parãmetros
 ~~~~~~~~~~
 
-O método Criar entidade aceita os seguintes parãmetros para a sua execução:
+O método Listar campos em coleções especificadas aceita os seguintes parãmetros para a sua execução:
 
 versionDate
 
@@ -592,18 +172,18 @@ headers
 
 options
 
-    Opções do criar entidade. Saiba mais: https://www.ibm.com/watson/developercloud/conversation/api/v1/#create_entity
+    Opções do Listar campos em coleções especificadas.
 
-.. include:: createEntity-ext.rst
+.. include:: listFields-ext.rst
 
-Excluir entidade
-================
-Exclua uma entidade de um espaço de trabalho.
+Atualizar um ambiente
+=====================
+Atualiza um ambiente existente.
 
 Parãmetros
 ~~~~~~~~~~
 
-O método Excluir entidade aceita os seguintes parãmetros para a sua execução:
+O método Atualizar um ambiente aceita os seguintes parãmetros para a sua execução:
 
 versionDate
 
@@ -627,263 +207,18 @@ headers
 
 options
 
-    Opções do excluir entidade. Saiba mais: https://www.ibm.com/watson/developercloud/conversation/api/v1/#delete_entity
+    Opções do Atualizar um ambiente. Mais: https://www.ibm.com/watson/developercloud/discovery/api/v1/#update_environment
 
-.. include:: deleteEntity-ext.rst
+.. include:: updateEnvironment-ext.rst
 
-Obter entidade
-==============
-Obtenha informações sobre uma entidade, incluindo opcionalmente todo o conteúdo da entidade.
-
-Parãmetros
-~~~~~~~~~~
-
-O método Obter entidade aceita os seguintes parãmetros para a sua execução:
-
-versionDate
-
-    A data da versão da API REST.
-
-username
-
-    Nome do usuário
-
-password
-
-    A senha
-
-endPoint
-
-    O novo endPoint da API.
-
-headers
-
-    Nome do cabeçalho que será usado na requisição HTTP.
-
-options
-
-    Opções do obter entidade. Saiba mais: https://www.ibm.com/watson/developercloud/conversation/api/v1/#get_entity
-
-.. include:: getEntity-ext.rst
-
-Lista de entidades
-==================
-Lista as entidades para uma área de trabalho.
-
-Parãmetros
-~~~~~~~~~~
-
-O método Lista de entidades aceita os seguintes parãmetros para a sua execução:
-
-versionDate
-
-    A data da versão da API REST.
-
-username
-
-    Nome do usuário
-
-password
-
-    A senha
-
-endPoint
-
-    O novo endPoint da API.
-
-headers
-
-    Nome do cabeçalho que será usado na requisição HTTP.
-
-options
-
-    Opções de Lista de entidades. Saiba mais: https://www.ibm.com/watson/developercloud/conversation/api/v1/#get_entities
-
-.. include:: listEntities-ext.rst
-
-Atualiza entidade
-=================
-Atualiza uma entidade existente com dados novos ou modificados. Você deve fornecer dados JSON que definem o conteúdo da entidade atualizada.
-
-Parãmetros
-~~~~~~~~~~
-
-O método Atualiza entidade aceita os seguintes parãmetros para a sua execução:
-
-versionDate
-
-    A data da versão da API REST.
-
-username
-
-    Nome do usuário
-
-password
-
-    A senha
-
-endPoint
-
-    O novo endPoint da API.
-
-headers
-
-    Nome do cabeçalho que será usado na requisição HTTP.
-
-options
-
-    Opções do atualiza entidade. Saiba mais: https://www.ibm.com/watson/developercloud/conversation/api/v1/#update_entity
-
-.. include:: updateEntity-ext.rst
-
-Adicionar valor de entidade
-===========================
-Adicione um novo valor a uma entidade.
-
-Parãmetros
-~~~~~~~~~~
-
-O método Adicionar valor de entidade aceita os seguintes parãmetros para a sua execução:
-
-versionDate
-
-    A data da versão da API REST.
-
-username
-
-    Nome do usuário
-
-password
-
-    A senha
-
-endPoint
-
-    O novo endPoint da API.
-
-headers
-
-    Nome do cabeçalho que será usado na requisição HTTP.
-
-options
-
-    Adicione opções de valor de entidade. Saiba mais: https://www.ibm.com/watson/developercloud/conversation/api/v1/#create_value
-
-.. include:: createValue-ext.rst
-
-Excluir valor da entidade
-=========================
-Exclua um valor de uma entidade.
-
-Parãmetros
-~~~~~~~~~~
-
-O método Excluir valor da entidade aceita os seguintes parãmetros para a sua execução:
-
-versionDate
-
-    A data da versão da API REST.
-
-username
-
-    Nome do usuário
-
-password
-
-    A senha
-
-endPoint
-
-    O novo endPoint da API.
-
-headers
-
-    Nome do cabeçalho que será usado na requisição HTTP.
-
-options
-
-    Opções do excluir valor da entidade. Saiba mais: https://www.ibm.com/watson/developercloud/conversation/api/v1/#delete_value
-
-.. include:: deleteValue-ext.rst
-
-Obter valor da entidade
-=======================
-Obtenha informações sobre um valor de entidade.
-
-Parãmetros
-~~~~~~~~~~
-
-O método Obter valor da entidade aceita os seguintes parãmetros para a sua execução:
-
-versionDate
-
-    A data da versão da API REST.
-
-username
-
-    Nome do usuário
-
-password
-
-    A senha
-
-endPoint
-
-    O novo endPoint da API.
-
-headers
-
-    Nome do cabeçalho que será usado na requisição HTTP.
-
-options
-
-    Opções do obter valor da entidade. Saiba mais: https://www.ibm.com/watson/developercloud/conversation/api/v1/#get_value
-
-.. include:: getValue-ext.rst
-
-Lista valores de entidade
-=========================
-Lista os valores de uma entidade.
-
-Parãmetros
-~~~~~~~~~~
-
-O método Lista valores de entidade aceita os seguintes parãmetros para a sua execução:
-
-versionDate
-
-    A data da versão da API REST.
-
-username
-
-    Nome do usuário
-
-password
-
-    A senha
-
-endPoint
-
-    O novo endPoint da API.
-
-headers
-
-    Nome do cabeçalho que será usado na requisição HTTP.
-
-options
-
-    Opções do Lista valores de entidade. Saiba mais: https://www.ibm.com/watson/developercloud/conversation/api/v1/#get_values
-
-.. include:: listValues-ext.rst
-
-Atualiza valor da entidade
+Adicionar uma configuração
 ==========================
-Atualiza um valor de entidade com dados novos ou modificados. Você deve fornecer dados JSON que definem o conteúdo do valor da entidade atualizada.
+Adiciona uma configuração à instância do serviço.
 
 Parãmetros
 ~~~~~~~~~~
 
-O método Atualiza valor da entidade aceita os seguintes parãmetros para a sua execução:
+O método Adicionar uma configuração aceita os seguintes parãmetros para a sua execução:
 
 versionDate
 
@@ -907,18 +242,18 @@ headers
 
 options
 
-    Opções do atualiza valor da entidade. Saiba mais: https://www.ibm.com/watson/developercloud/conversation/api/v1/#update_value
+    Opções do Adicionar uma configuração. Mais: https://www.ibm.com/watson/developercloud/discovery/api/v1/#add_configuration
 
-.. include:: updateValue-ext.rst
+.. include:: createConfiguration-ext.rst
 
-Adicionar sinonimo
-==================
-Adicione um novo sinônimo a um valor de entidade.
+Excluir uma configuração
+========================
+Exclui uma configuração existente da instância do serviço.
 
 Parãmetros
 ~~~~~~~~~~
 
-O método Adicionar sinonimo aceita os seguintes parãmetros para a sua execução:
+O método Excluir uma configuração aceita os seguintes parãmetros para a sua execução:
 
 versionDate
 
@@ -942,18 +277,18 @@ headers
 
 options
 
-    Adicione opções de sinônimo. Saiba mais: https://www.ibm.com/watson/developercloud/conversation/api/v1/#get_synonyms
+    Opções do Excluir uma configuração. Mais: https://www.ibm.com/watson/developercloud/discovery/api/v1/?java#delete_configuration
 
-.. include:: createSynonym-ext.rst
+.. include:: deleteConfiguration-ext.rst
 
-Excluir sinônimo
-================
-Exclua um sinônimo de um valor de entidade.
+Lista detalhada da configuração
+===============================
+Obtenha informações sobre a configuração especificada.
 
 Parãmetros
 ~~~~~~~~~~
 
-O método Excluir sinônimo aceita os seguintes parãmetros para a sua execução:
+O método Lista detalhada da configuração aceita os seguintes parãmetros para a sua execução:
 
 versionDate
 
@@ -977,18 +312,18 @@ headers
 
 options
 
-    Opções do excluir sinônimos. Saiba mais:
+    Opções do Lista detalhada da configuração. Mais: https://www.ibm.com/watson/developercloud/discovery/api/v1/?java#list_configurations
 
-.. include:: deleteSynonym-ext.rst
+.. include:: getConfiguration-ext.rst
 
-Obter sinônimo
-==============
-Obtenha informações sobre um sinônimo de um valor de entidade.
+Listar configurações
+====================
+Lista as configurações existentes para a instância do serviço.
 
 Parãmetros
 ~~~~~~~~~~
 
-O método Obter sinônimo aceita os seguintes parãmetros para a sua execução:
+O método Listar configurações aceita os seguintes parãmetros para a sua execução:
 
 versionDate
 
@@ -1012,18 +347,18 @@ headers
 
 options
 
-    Opções do obter sinônimo. Saiba mais: https://www.ibm.com/watson/developercloud/conversation/api/v1/#get_synonym
+    Opções do Listar configurações. Mais: https://www.ibm.com/watson/developerclou
 
-.. include:: getSynonym-ext.rst
+.. include:: listConfigurations-ext.rst
 
-Lista de sinônimos
-==================
-Lista os sinônimos para um valor de entidade.
+Atualizar uma configuração
+==========================
+Atualiza uma configuração existente.
 
 Parãmetros
 ~~~~~~~~~~
 
-O método Lista de sinônimos aceita os seguintes parãmetros para a sua execução:
+O método Atualizar uma configuração aceita os seguintes parãmetros para a sua execução:
 
 versionDate
 
@@ -1047,18 +382,53 @@ headers
 
 options
 
-    Opções de Lista de sinônimos. Saiba mais: https://www.ibm.com/watson/developercloud/conversation/api/v1/#get_synonyms
+    Opções do Atualizar uma configuração
 
-.. include:: listSynonyms-ext.rst
+.. include:: updateConfiguration-ext.rst
 
-Atualiza sinônimo
+Testar a configuração do ambiente
+=================================
+Executa um documento de exemplo através do padrão ou sua configuração e retorna informações de diagnóstico projetadas para ajudá-lo a entender como o documento foi processado. O documento não é adicionado ao índice.
+
+Parãmetros
+~~~~~~~~~~
+
+O método Testar a configuração do ambiente aceita os seguintes parãmetros para a sua execução:
+
+versionDate
+
+    A data da versão da API REST.
+
+username
+
+    Nome do usuário
+
+password
+
+    A senha
+
+endPoint
+
+    O novo endPoint da API.
+
+headers
+
+    Nome do cabeçalho que será usado na requisição HTTP.
+
+options
+
+    Opções do Testar a configuração do ambiente
+
+.. include:: testConfigurationInEnvironment-ext.rst
+
+Criar uma coleção
 =================
-Atualiza o sinônimo da entidade existente..
+Cria uma nova coleção para armazenar documentos.
 
 Parãmetros
 ~~~~~~~~~~
 
-O método Atualiza sinônimo aceita os seguintes parãmetros para a sua execução:
+O método Criar uma coleção aceita os seguintes parãmetros para a sua execução:
 
 versionDate
 
@@ -1082,18 +452,18 @@ headers
 
 options
 
-    Opções do atualiza sinônimo. Saiba mais: https://www.ibm.com/watson/developercloud/conversation/api/v1/#update_synonym
+    Opções do Criar uma coleção. Mais: https://www.ibm.com/watson/developercloud/discovery/api/v1/#create-collection
 
-.. include:: updateSynonym-ext.rst
+.. include:: createCollection-ext.rst
 
-Criar nó de diálogo
+Excluir uma coleção
 ===================
-Crie um novo nó de diálogo.
+Exclui uma coleção existente.
 
 Parãmetros
 ~~~~~~~~~~
 
-O método Criar nó de diálogo aceita os seguintes parãmetros para a sua execução:
+O método Excluir uma coleção aceita os seguintes parãmetros para a sua execução:
 
 versionDate
 
@@ -1117,18 +487,18 @@ headers
 
 options
 
-    Opções do criar nó de diálogo. Saiba mais: https://www.ibm.com/watson/developercloud/conversation/api/v1/#create_dialognode
+    Opções do Excluir uma coleção. Mais: https://www.ibm.com/watson/developercloud/discovery/api/v1/?java#delete-collection
 
-.. include:: createDialogNode-ext.rst
+.. include:: deleteCollection-ext.rst
 
-Excluir o nó de diálogo
-=======================
-Exclua um nó de diálogo de um espaço de trabalho.
+Lista detalhada da coleção
+==========================
+Exibe informações detalhadas sobre uma coleção existente.
 
 Parãmetros
 ~~~~~~~~~~
 
-O método Excluir o nó de diálogo aceita os seguintes parãmetros para a sua execução:
+O método Lista detalhada da coleção aceita os seguintes parãmetros para a sua execução:
 
 versionDate
 
@@ -1152,18 +522,18 @@ headers
 
 options
 
-    Opções do excluir o nó de diálogo. Saiba mais: https://www.ibm.com/watson/developercloud/conversation/api/v1/#delete_dialognode
+    Opções do Lista detalhada da coleção. Mais: https://www.ibm.com/watson/developercloud/discovery/api/v1/?java#list-collection-details
 
-.. include:: deleteDialogNode-ext.rst
+.. include:: getCollection-ext.rst
 
-Obter nó de diálogo
-===================
-Obtenha informações sobre um nó de diálogo.
+Listar coleção de campos
+========================
+Lista os dados de treinamento para a coleção especificada.
 
 Parãmetros
 ~~~~~~~~~~
 
-O método Obter nó de diálogo aceita os seguintes parãmetros para a sua execução:
+O método Listar coleção de campos aceita os seguintes parãmetros para a sua execução:
 
 versionDate
 
@@ -1187,18 +557,88 @@ headers
 
 options
 
-    Opções do obter nó de diálogo. Saiba mais: https://www.ibm.com/watson/developercloud/conversation/api/v1/#get_dialognode
+    Opções do Listar coleção de campos. Mais: https://www.ibm.com/watson/developercloud/discovery/api/v1/?java#list-fields
 
-.. include:: getDialogNode-ext.rst
+.. include:: listCollectionFields-ext.rst
 
-Lista de nó de diálogo
+Listar coleções
+===============
+Exibir uma lista de coleções existentes.
+
+Parãmetros
+~~~~~~~~~~
+
+O método Listar coleções aceita os seguintes parãmetros para a sua execução:
+
+versionDate
+
+    A data da versão da API REST.
+
+username
+
+    Nome do usuário
+
+password
+
+    A senha
+
+endPoint
+
+    O novo endPoint da API.
+
+headers
+
+    Nome do cabeçalho que será usado na requisição HTTP.
+
+options
+
+    Opções do Listar coleções. Mais: https://www.ibm.com/watson/developercloud/discovery/api/v1/#list-collections
+
+.. include:: listCollections-ext.rst
+
+Atualizar uma coleção
+=====================
+Atualiza uma coleção existente.
+
+Parãmetros
+~~~~~~~~~~
+
+O método Atualizar uma coleção aceita os seguintes parãmetros para a sua execução:
+
+versionDate
+
+    A data da versão da API REST.
+
+username
+
+    Nome do usuário
+
+password
+
+    A senha
+
+endPoint
+
+    O novo endPoint da API.
+
+headers
+
+    Nome do cabeçalho que será usado na requisição HTTP.
+
+options
+
+    Opções do Atualizar uma coleção. Mais: https://www.ibm.com/watson/developercloud/discovery/api/v1/#update-collection
+
+.. include:: updateCollection-ext.rst
+
+Adicionar um documento
 ======================
-Lista dos nós de diálogo para uma área de trabalho.
+Adiciona um documento à sua coleção.
 
 Parãmetros
 ~~~~~~~~~~
 
-O método Lista de nó de diálogo aceita os seguintes parãmetros para a sua execução:
+O método Adicionar um documento aceita os seguintes parãmetros para a sua execução:
 
 versionDate
 
@@ -1222,18 +662,88 @@ headers
 
 options
 
-    Opções da Lista de nó de diálogo. Saiba mais: https://www.ibm.com/watson/developercloud/conversation/api/v1/#get_dialognodes
+    Opções do Adicionar um documento. Mais: https://www.ibm.com/watson/developercloud/discovery/api/v1/#add-doc
 
-.. include:: listDialogNodes-ext.rst
+.. include:: addDocument-ext.rst
 
-Atualiza nó de diálogo
+Excluir um documento
+====================
+Exclui um documento de uma coleção.
+
+Parãmetros
+~~~~~~~~~~
+
+O método Excluir um documento aceita os seguintes parãmetros para a sua execução:
+
+versionDate
+
+    A data da versão da API REST.
+
+username
+
+    Nome do usuário
+
+password
+
+    A senha
+
+endPoint
+
+    O novo endPoint da API.
+
+headers
+
+    Nome do cabeçalho que será usado na requisição HTTP.
+
+options
+
+    Opções do Excluir um documento. Mais: https://www.ibm.com/watson/developercloud/discovery/api/v1/?java#delete-doc
+
+.. include:: deleteDocument-ext.rst
+
+Listar detalhes do documento
+============================
+Exibir informações de status sobre um documento enviado.
+
+Parãmetros
+~~~~~~~~~~
+
+O método Listar detalhes do documento aceita os seguintes parãmetros para a sua execução:
+
+versionDate
+
+    A data da versão da API REST.
+
+username
+
+    Nome do usuário
+
+password
+
+    A senha
+
+endPoint
+
+    O novo endPoint da API.
+
+headers
+
+    Nome do cabeçalho que será usado na requisição HTTP.
+
+options
+
+    Opções do Listar detalhes do documento. Mais: https://www.ibm.com/watson/developercloud/discovery/api/v1/?java#get-doc
+
+.. include:: getDocumentStatus-ext.rst
+
+Atualizar um documento
 ======================
-Atualiza um nó de diálogo existente com dados novos ou modificados.
+Atualiza total ou parcialmente um documento para criar ou substituir um documento existente.
 
 Parãmetros
 ~~~~~~~~~~
 
-O método Atualiza nó de diálogo aceita os seguintes parãmetros para a sua execução:
+O método Atualizar um documento aceita os seguintes parãmetros para a sua execução:
 
 versionDate
 
@@ -1257,18 +767,543 @@ headers
 
 options
 
-    Opções do atualiza nó de diálogo. Saiba mais: https://www.ibm.com/watson/developercloud/conversation/api/v1/#update_dialognode
+    Opções do Atualizar um documento. Mais: https://www.ibm.com/watson/developercloud/discovery/api/v1/#update-doc
 
-.. include:: updateDialogNode-ext.rst
+.. include:: updateDocument-ext.rst
 
-Lista os logs dos eventos de todas as áreas de trabalho
+Consulta Federada
+=================
+Consulta documentos em várias coleções. Consulte a Documentação do serviço Discovery para mais detalhes: https://console.bluemix.net/docs/services/discovery/using.html.
+
+Parãmetros
+~~~~~~~~~~
+
+O método Consulta Federada aceita os seguintes parãmetros para a sua execução:
+
+versionDate
+
+    A data da versão da API REST.
+
+username
+
+    Nome do usuário
+
+password
+
+    A senha
+
+endPoint
+
+    O novo endPoint da API.
+
+headers
+
+    Nome do cabeçalho que será usado na requisição HTTP.
+
+options
+
+    Opções do Consulta federada.
+
+.. include:: federatedQuery-ext.rst
+
+Notificações em várias coleções
+===============================
+Se você criou várias coleções, você pode criar consultas para pesquisar notificações (avisos e erros) em várias coleções. Consulte https://console.bluemix.net/docs/services/discovery/using.html
+
+Parãmetros
+~~~~~~~~~~
+
+O método Notificações em várias coleções aceita os seguintes parãmetros para a sua execução:
+
+versionDate
+
+    A data da versão da API REST.
+
+username
+
+    Nome do usuário
+
+password
+
+    A senha
+
+endPoint
+
+    O novo endPoint da API.
+
+headers
+
+    Nome do cabeçalho que será usado na requisição HTTP.
+
+options
+
+    Opções do Notificações em várias coleções. Mais: https://www.ibm.com/watson/developercloud/discovery/api/v1/?java#collections-notices
+
+.. include:: federatedQueryNotices-ext.rst
+
+Documentos de consulta
+======================
+Consulte a documentação do serviço Discovery para obter mais detalhes: https://console.bluemix.net/docs/services/discovery/using.html.
+
+Parãmetros
+~~~~~~~~~~
+
+O método Documentos de consulta aceita os seguintes parãmetros para a sua execução:
+
+versionDate
+
+    A data da versão da API REST.
+
+username
+
+    Nome do usuário
+
+password
+
+    A senha
+
+endPoint
+
+    O novo endPoint da API.
+
+headers
+
+    Nome do cabeçalho que será usado na requisição HTTP.
+
+options
+
+    Opções do Documentos de consulta.
+
+.. include:: query-ext.rst
+
+Consulta de Entidade gráficas de Conhecimento
+=============================================
+A consulta de entidade gráfica do conhecimento pode executar a desambiguação da entidade e atualmente é a funcionalidade Beta. Com base no texto fornecido à entidade e contexto opcional, a desambiguação identifica entidades únicas e retorna uma lista das entidades classificadas com base nas informações de contexto.
+
+Parãmetros
+~~~~~~~~~~
+
+O método Consulta de Entidade gráficas de Conhecimento aceita os seguintes parãmetros para a sua execução:
+
+versionDate
+
+    A data da versão da API REST.
+
+username
+
+    Nome do usuário
+
+password
+
+    A senha
+
+endPoint
+
+    O novo endPoint da API.
+
+headers
+
+    Nome do cabeçalho que será usado na requisição HTTP.
+
+options
+
+    Opções do Consulta de Entidade gráficas do Conhecimento. Mais: https://www.ibm.com/watson/developercloud/discovery/api/v1/#knowledge-graph-entities
+
+.. include:: queryEntities-ext.rst
+
+Consultas no sistema de notificações
+====================================
+Consultas por notificações (erros ou avisos) que possam ter sido gerados pelo sistema. Os avisos são gerados ao ingerir documentos e realizar treinamento relevantes.
+
+Parãmetros
+~~~~~~~~~~
+
+O método Consultas no sistema de notificações aceita os seguintes parãmetros para a sua execução:
+
+versionDate
+
+    A data da versão da API REST.
+
+username
+
+    Nome do usuário
+
+password
+
+    A senha
+
+endPoint
+
+    O novo endPoint da API.
+
+headers
+
+    Nome do cabeçalho que será usado na requisição HTTP.
+
+options
+
+    Opções do Consultas no sistema de notificações.
+
+.. include:: queryNotices-ext.rst
+
+Consultas de relacionamentos gráficos do conhecimento
+=====================================================
+As consultas de relacionamentos gráficos do conhecimento suportam encontros de relacionamentos mais relevantes baseados em entidades de entrada usando desambiguação de entidade implícita, relacionamentos baseados em contexto, classificação por pontuação de relevância e contagem de menções e filtragem por tipos e IDs de documentos. Esta é atualmente uma funcionalidade Beta.
+
+Parãmetros
+~~~~~~~~~~
+
+O método Consultas de relacionamentos gráficos do conhecimento aceita os seguintes parãmetros para a sua execução:
+
+versionDate
+
+    A data da versão da API REST.
+
+username
+
+    Nome do usuário
+
+password
+
+    A senha
+
+endPoint
+
+    O novo endPoint da API.
+
+headers
+
+    Nome do cabeçalho que será usado na requisição HTTP.
+
+options
+
+    Opções do Consultas de relacionamentos gráficos do conhecimento. Mais: https://www.ibm.com/watson/developercloud/discovery/api/v1/#knowledge-graph-relations
+
+.. include:: queryRelations-ext.rst
+
+Adicionar uma consulta aos dados de treinamento para uma coleção
+================================================================
+Adiciona uma consulta aos dados de treinamento para uma coleção. Pode ser qualquer consulta do Discovery válida para a coleção.
+
+Parãmetros
+~~~~~~~~~~
+
+O método Adicionar uma consulta aos dados de treinamento para uma coleção aceita os seguintes parãmetros para a sua execução:
+
+versionDate
+
+    A data da versão da API REST.
+
+username
+
+    Nome do usuário
+
+password
+
+    A senha
+
+endPoint
+
+    O novo endPoint da API.
+
+headers
+
+    Nome do cabeçalho que será usado na requisição HTTP.
+
+options
+
+    Opções do Adicionar uma consulta aos dados de treinamento para uma coleção. Mais: https://www.ibm.com/watson/developercloud/discovery/api/v1/#add-training-data
+
+.. include:: addTrainingData-ext.rst
+
+Adicionar um exemplo a uma consulta de dados de treinamento
+===========================================================
+Adiciona um exemplo a uma consulta de dados de treinamento existente para uma coleção.
+
+Parãmetros
+~~~~~~~~~~
+
+O método Adicionar um exemplo a uma consulta de dados de treinamento aceita os seguintes parãmetros para a sua execução:
+
+versionDate
+
+    A data da versão da API REST.
+
+username
+
+    Nome do usuário
+
+password
+
+    A senha
+
+endPoint
+
+    O novo endPoint da API.
+
+headers
+
+    Nome do cabeçalho que será usado na requisição HTTP.
+
+options
+
+    Opções do Adicionar um exemplo a uma consulta de dados de treinamento. Mais: https://www.ibm.com/watson/developercloud/discovery/api/v1/?java#add-example-to-td-query
+
+.. include:: createTrainingExample-ext.rst
+
+Excluir todos os dados de treinamento de uma coleção
+====================================================
+Exclui todos os dados de treinamento de uma coleção.
+
+Parãmetros
+~~~~~~~~~~
+
+O método Excluir todos os dados de treinamento de uma coleção aceita os seguintes parãmetros para a sua execução:
+
+versionDate
+
+    A data da versão da API REST.
+
+username
+
+    Nome do usuário
+
+password
+
+    A senha
+
+endPoint
+
+    O novo endPoint da API.
+
+headers
+
+    Nome do cabeçalho que será usado na requisição HTTP.
+
+options
+
+    Opções do Excluir todos os dados de treinamento de uma coleção. Mais: https://www.ibm.com/watson/developercloud/discovery/api/v1/?java#delete-all-training-data
+
+.. include:: deleteAllTrainingData-ext.rst
+
+Excluir uma consulta  de dados de treinamento
+=============================================
+Remove a consulta e todos os exemplos associados do conjunto de dados de treinamento.
+
+Parãmetros
+~~~~~~~~~~
+
+O método Excluir uma consulta  de dados de treinamento aceita os seguintes parãmetros para a sua execução:
+
+versionDate
+
+    A data da versão da API REST.
+
+username
+
+    Nome do usuário
+
+password
+
+    A senha
+
+endPoint
+
+    O novo endPoint da API.
+
+headers
+
+    Nome do cabeçalho que será usado na requisição HTTP.
+
+options
+
+    Opções do Excluir uma consulta  de dados de treinamento. Mais: https://www.ibm.com/watson/developercloud/discovery/api/v1/?java#delete-td-query-example
+
+.. include:: deleteTrainingData-ext.rst
+
+Excluir um documento de exemplo
+===============================
+Exclui o documento de exemplo com a identificação especificada da consulta.
+
+Parãmetros
+~~~~~~~~~~
+
+O método Excluir um documento de exemplo aceita os seguintes parãmetros para a sua execução:
+
+versionDate
+
+    A data da versão da API REST.
+
+username
+
+    Nome do usuário
+
+password
+
+    A senha
+
+endPoint
+
+    O novo endPoint da API.
+
+headers
+
+    Nome do cabeçalho que será usado na requisição HTTP.
+
+options
+
+    Opções do Excluir um documento de exemplo. Mais: https://www.ibm.com/watson/developercloud/discovery/api/v1/?java#delete-example
+
+.. include:: deleteTrainingExample-ext.rst
+
+Obter dados de treinamento
+==========================
+Mostra detalhes para uma consulta específica de dados de treinamento, incluindo a seqüência de consulta e todos os exemplos.
+
+Parãmetros
+~~~~~~~~~~
+
+O método Obter dados de treinamento aceita os seguintes parãmetros para a sua execução:
+
+versionDate
+
+    A data da versão da API REST.
+
+username
+
+    Nome do usuário
+
+password
+
+    A senha
+
+endPoint
+
+    O novo endPoint da API.
+
+headers
+
+    Nome do cabeçalho que será usado na requisição HTTP.
+
+options
+
+    Opções do Obter dados de treinamento.
+
+.. include:: getTrainingData-ext.rst
+
+obter um exemplo de treinamento
+===============================
+Obtém os detalhes do exemplo de treinamento.
+
+Parãmetros
+~~~~~~~~~~
+
+O método obter um exemplo de treinamento aceita os seguintes parãmetros para a sua execução:
+
+versionDate
+
+    A data da versão da API REST.
+
+username
+
+    Nome do usuário
+
+password
+
+    A senha
+
+endPoint
+
+    O novo endPoint da API.
+
+headers
+
+    Nome do cabeçalho que será usado na requisição HTTP.
+
+options
+
+    Opções do Obter um exemplo de treinamento.
+
+.. include:: getTrainingExample-ext.rst
+
+Listar os dados de treinamento para uma coleção
+===============================================
+Lista os dados de treinamento para a coleção especificada.
+
+Parãmetros
+~~~~~~~~~~
+
+O método Listar os dados de treinamento para uma coleção aceita os seguintes parãmetros para a sua execução:
+
+versionDate
+
+    A data da versão da API REST.
+
+username
+
+    Nome do usuário
+
+password
+
+    A senha
+
+endPoint
+
+    O novo endPoint da API.
+
+headers
+
+    Nome do cabeçalho que será usado na requisição HTTP.
+
+options
+
+    Opções do Listar os dados de treinamento para uma coleção. Mais: https://www.ibm.com/watson/developercloud/discovery/api/v1/#get-training-data
+
+.. include:: listTrainingData-ext.rst
+
+Listar exemplos de treinamento
+==============================
+Lista todos os exemplos para esta consulta de dados de treinamento.
+
+Parãmetros
+~~~~~~~~~~
+
+O método Listar exemplos de treinamento aceita os seguintes parãmetros para a sua execução:
+
+versionDate
+
+    A data da versão da API REST.
+
+username
+
+    Nome do usuário
+
+password
+
+    A senha
+
+endPoint
+
+    O novo endPoint da API.
+
+headers
+
+    Nome do cabeçalho que será usado na requisição HTTP.
+
+options
+
+    Opções do Listar exemplos de treinamento.
+
+.. include:: listTrainingExamples-ext.rst
+
+Alterar o rótulo de um exemplo ou da referência cruzada
 =======================================================
-Lista os logs dos eventos de todas as instância do serviço das áreas de trabalho.
+Altera o rótulo ou consulta da referência cruzada para o exemplo especificado.
 
 Parãmetros
 ~~~~~~~~~~
 
-O método Lista os logs dos eventos de todas as áreas de trabalho aceita os seguintes parãmetros para a sua execução:
+O método Alterar o rótulo de um exemplo ou da referência cruzada aceita os seguintes parãmetros para a sua execução:
 
 versionDate
 
@@ -1292,216 +1327,6 @@ headers
 
 options
 
-    Opções do lista os logs dos eventos de todas as áreas de trabalho. Saiba mais: https://www.ibm.com/watson/developercloud/conversation/api/v1/#get_all_logs
+    Opções do Alterar o rótulo de um exemplo ou da referência cruzada. Mais: https://www.ibm.com/watson/developercloud/discovery/api/v1/#update-example
 
-.. include:: listAllLogs-ext.rst
-
-Lista log de eventos em uma área de trabalho
-============================================
-Lista os logs dos eventos de uma área de trabalho específica.
-
-Parãmetros
-~~~~~~~~~~
-
-O método Lista log de eventos em uma área de trabalho aceita os seguintes parãmetros para a sua execução:
-
-versionDate
-
-    A data da versão da API REST.
-
-username
-
-    Nome do usuário
-
-password
-
-    A senha
-
-endPoint
-
-    O novo endPoint da API.
-
-headers
-
-    Nome do cabeçalho que será usado na requisição HTTP.
-
-options
-
-    Opções do lista log de eventos em uma área de trabalho. Saiba mais: https://www.ibm.com/watson/developercloud/conversation/api/v1/#get_logs
-
-.. include:: listLogs-ext.rst
-
-Criar contra-exemplo
-====================
-Adicione um novo contra-exemplo a um espaço de trabalho. Os exemplos de contraponto são exemplos que foram marcados como entrada irrelevante.
-
-Parãmetros
-~~~~~~~~~~
-
-O método Criar contra-exemplo aceita os seguintes parãmetros para a sua execução:
-
-versionDate
-
-    A data da versão da API REST.
-
-username
-
-    Nome do usuário
-
-password
-
-    A senha
-
-endPoint
-
-    O novo endPoint da API.
-
-headers
-
-    Nome do cabeçalho que será usado na requisição HTTP.
-
-options
-
-    Opções do criar contra-exemplo. Saiba mais: https://www.ibm.com/watson/developercloud/conversation/api/v1/#create_counterexample
-
-.. include:: createCounterexample-ext.rst
-
-Excluir o contra-exemplo
-========================
-Exclua um contra-exemplo de um espaço de trabalho. Os exemplos de contraponto são exemplos que foram marcados como entrada irrelevante.
-
-Parãmetros
-~~~~~~~~~~
-
-O método Excluir o contra-exemplo aceita os seguintes parãmetros para a sua execução:
-
-versionDate
-
-    A data da versão da API REST.
-
-username
-
-    Nome do usuário
-
-password
-
-    A senha
-
-endPoint
-
-    O novo endPoint da API.
-
-headers
-
-    Nome do cabeçalho que será usado na requisição HTTP.
-
-options
-
-    Opções do excluir o contra-exemplo. Saiba mais: https://www.ibm.com/watson/developercloud/conversation/api/v1/#delete_counterexample
-
-.. include:: deleteCounterexample-ext.rst
-
-Obter contra-exemplo
-====================
-Obtenha informações sobre um contra-exemplo. Os contra-exemplo são exemplos que foram marcados como entrada irrelevante.
-
-Parãmetros
-~~~~~~~~~~
-
-O método Obter contra-exemplo aceita os seguintes parãmetros para a sua execução:
-
-versionDate
-
-    A data da versão da API REST.
-
-username
-
-    Nome do usuário
-
-password
-
-    A senha
-
-endPoint
-
-    O novo endPoint da API.
-
-headers
-
-    Nome do cabeçalho que será usado na requisição HTTP.
-
-options
-
-    Obtenha opções de contra-exemplo. Saiba mais: https://www.ibm.com/watson/developercloud/conversation/api/v1/#get_counterexample
-
-.. include:: getCounterexample-ext.rst
-
-Lista de contra-exemplos
-========================
-Lista os contra-exemplos para uma área de trabalho. Os exemplos de contraponto são exemplos que foram marcados como entrada irrelevante.
-
-Parãmetros
-~~~~~~~~~~
-
-O método Lista de contra-exemplos aceita os seguintes parãmetros para a sua execução:
-
-versionDate
-
-    A data da versão da API REST.
-
-username
-
-    Nome do usuário
-
-password
-
-    A senha
-
-endPoint
-
-    O novo endPoint da API.
-
-headers
-
-    Nome do cabeçalho que será usado na requisição HTTP.
-
-options
-
-    Opções da lista de contra-exemplo. Saiba mais: https://www.ibm.com/watson/developercloud/conversation/api/v1/#get_counterexamples
-
-.. include:: listCounterexamples-ext.rst
-
-Atualiza o contra-exemplo
-=========================
-Atualiza o texto de um contra-exemplo. Os exemplos de contraponto são exemplos que foram marcados como entrada irrelevante.
-
-Parãmetros
-~~~~~~~~~~
-
-O método Atualiza o contra-exemplo aceita os seguintes parãmetros para a sua execução:
-
-versionDate
-
-    A data da versão da API REST.
-
-username
-
-    Nome do usuário
-
-password
-
-    A senha
-
-endPoint
-
-    O novo endPoint da API.
-
-headers
-
-    Nome do cabeçalho que será usado na requisição HTTP.
-
-options
-
-    Opções do atualiza o contra-exemplo. Saiba mais: https://www.ibm.com/watson/developercloud/conversation/api/v1/#update_counterexample
-
-.. include:: updateCounterexample-ext.rst
+.. include:: updateTrainingExample-ext.rst

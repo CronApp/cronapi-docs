@@ -1,7 +1,7 @@
-IBM Watson™ Conversation
-========================
+IBM Watson™ Discovery
+=====================
 
-O serviço IBM Watson™ Conversation combina aprendizado de máquina, compreensão de linguagem natural e ferramentas de diálogo integrado para criar fluxos de conversação entre seus aplicativos e seus usuários.
+O IBM Watson™ Discovery Service usa análises de dados combinadas com a intuição cognitiva para tirar seus dados não estruturados e enriquecê-lo para que você possa consultá-lo para retornar a informação que você precisa.
 
 .. toctree::
    :maxdepth: 2
