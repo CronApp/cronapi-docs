@@ -5,3 +5,10 @@ Exemplo 1
    :alt: Exemplo 1
    
    Dado o conteúdo "Exemplo de Texto", a função deverá apresentar a string codificada em Base64 UlhobGJYQnNieUJrWlNCVVpYaDBidz09.
+   
+Referências
+~~~~~~~~~~~
+
+O que é Base64_?
+
+.. _Base64: ../whatis/base64.html   

@@ -8,3 +8,10 @@ Welcome to CronApi's documentation!
    servidor
    cliente
    mobile
+   
+.. toctree::
+   :maxdepth: 1
+   :caption: O Que é...
+   
+   whatis/base64
+   

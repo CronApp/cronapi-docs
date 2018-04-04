@@ -8,8 +8,8 @@ Parãmetros
 
 O método Texto para base64 aceita os seguintes parãmetros para a sua execução:
 
-text
+Parâmetro 1
 
-    
+    String a ser codificada para Base64
 
 .. include:: StringToBase64-ext.rst
