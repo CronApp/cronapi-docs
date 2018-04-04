@@ -23,5 +23,6 @@ Conversão
    toString
    toDouble
    toBoolean
+   toBoolean2
 
 .. include:: index-ext.rst

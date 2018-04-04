@@ -1,0 +1,15 @@
+Para lógico
+===========
+
+Função para converter para lógico
+
+Parâmetros
+~~~~~~~~~~
+
+O método Para lógico aceita os seguintes parãmetros para a sua execução:
+
+var
+
+    Conteúdo
+
+.. include:: toBoolean2-ext.rst
