@@ -3,8 +3,23 @@ Welcome to CronApi's documentation!
 
 .. toctree::
    :maxdepth: 1
-   :caption: Contents:
+   :caption: Referência das Apis:
    
+   cronapi.chart.Operations/index
+   cronapi.conversion.Operations/index
+   cronapi.database.Operations/index
+   cronapi.dateTime.Operations/index
+   cronapi.email.Operations/index
+   cronapi.io.Operations/index
+   cronapi.json.Operations/index
+   cronapi.logic.Operations/index
+   cronapi.map.Operations/index
+   cronapi.object.Operations/index
+   cronapi.pushnotification.Operations/index
+   cronapi.report.Operations/index
+   cronapi.screen.Operations/index
+   cronapi.util.Operations/index   
+   cronapi.xml.Operations/index   
    cronapi.watson.conversation.ConversationOperations/index
    cronapi.watson.discovery.DiscoveryOperations/index
    cronapi.watson.language_translator.LanguageTranslatorOperations/index

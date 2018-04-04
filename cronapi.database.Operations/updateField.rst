@@ -1,0 +1,23 @@
+Atualizar campo
+===============
+
+Função que atualiza o campo informado no registro do cursor atual da fonte de dados
+
+Parãmetros
+~~~~~~~~~~
+
+O método Atualizar campo aceita os seguintes parãmetros para a sua execução:
+
+ds
+
+    
+
+Nome do campo
+
+    
+
+Valor do campo
+
+    
+
+.. include:: updateField-ext.rst
