@@ -3,13 +3,13 @@ Obter dia da semana da data
 
 Função para obter dia da semana da data
 
-Parãmetros
+Parâmetros
 ~~~~~~~~~~
 
 O método Obter dia da semana da data aceita os seguintes parãmetros para a sua execução:
 
 value
 
-    
+    Data
 
 .. include:: getDayOfWeek-ext.rst

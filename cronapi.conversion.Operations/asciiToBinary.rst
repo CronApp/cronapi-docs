@@ -3,13 +3,13 @@ Texto para texto binário
 
 Função para converter texto para texto binário
 
-Parãmetros
+Parâmetros
 ~~~~~~~~~~
 
 O método Texto para texto binário  aceita os seguintes parãmetros para a sua execução:
 
-asciiVar
+Conteúdo
 
-    
+     Conteúdo em ascii
 
 .. include:: asciiToBinary-ext.rst

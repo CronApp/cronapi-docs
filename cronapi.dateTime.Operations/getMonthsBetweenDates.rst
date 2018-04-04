@@ -3,17 +3,17 @@ Obter total de meses entre datas
 
 Função para obter total de meses entre datas
 
-Parãmetros
+Parâmetros
 ~~~~~~~~~~
 
 O método Obter total de meses entre datas aceita os seguintes parãmetros para a sua execução:
 
-dateVar
+Maior data
 
-    
+     Maior data a ser subtraida
 
-date2Var
+Menor data
 
-    
+     Menor data a ser subtraida
 
 .. include:: getMonthsBetweenDates-ext.rst

@@ -3,13 +3,13 @@ Existe registro
 
 Função que verifica se existe registro no cursor atual
 
-Parãmetros
+Parâmetros
 ~~~~~~~~~~
 
 O método Existe registro aceita os seguintes parãmetros para a sua execução:
 
 ds
 
-    
+    Fonte de dados
 
 .. include:: hasElement-ext.rst

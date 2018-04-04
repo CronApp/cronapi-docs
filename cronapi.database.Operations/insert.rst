@@ -3,17 +3,17 @@ Inserir
 
 Função que cria um novo registro no banco de dados
 
-Parãmetros
+Parâmetros
 ~~~~~~~~~~
 
 O método Inserir aceita os seguintes parãmetros para a sua execução:
 
 Entidade
 
-    
+    Fonte de dados
 
-Parâmetros: Parâmetros a serem passados
+Parâmetros
 
-    
+     Parâmetros a serem passados
 
 .. include:: insert-ext.rst

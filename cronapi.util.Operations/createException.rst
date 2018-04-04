@@ -3,13 +3,13 @@ Cria exceção
 
 Cria exceção
 
-Parãmetros
+Parâmetros
 ~~~~~~~~~~
 
 O método Cria exceção aceita os seguintes parãmetros para a sua execução:
 
-msg
+Mensagem
 
-    
+    Mensagem da exceção
 
 .. include:: createException-ext.rst

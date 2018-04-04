@@ -3,17 +3,17 @@ Incrementar hora na data
 
 Função para incrementar hora na data
 
-Parãmetros
+Parâmetros
 ~~~~~~~~~~
 
 O método Incrementar hora na data aceita os seguintes parãmetros para a sua execução:
 
 value
 
-    
+    Data
 
 Hora
 
-    
+    Horas a incrementar
 
 .. include:: incHour-ext.rst

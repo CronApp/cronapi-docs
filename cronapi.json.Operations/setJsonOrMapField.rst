@@ -3,7 +3,7 @@ Definir valor no Json
 
 Função para definir valor no Json
 
-Parãmetros
+Parâmetros
 ~~~~~~~~~~
 
 O método Definir valor no Json aceita os seguintes parãmetros para a sua execução:

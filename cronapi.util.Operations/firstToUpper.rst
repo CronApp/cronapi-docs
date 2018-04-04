@@ -3,7 +3,7 @@ cronapi.util.Operations.Method.firstToUpper.Name
 
 cronapi.util.Operations.Method.firstToUpper.Description
 
-Parãmetros
+Parâmetros
 ~~~~~~~~~~
 
 O método cronapi.util.Operations.Method.firstToUpper.Name aceita os seguintes parãmetros para a sua execução:

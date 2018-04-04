@@ -3,7 +3,7 @@ Define valor no Mapa por chave
 
 Função para definir o valor do campo do mapa através de uma determinada chave
 
-Parãmetros
+Parâmetros
 ~~~~~~~~~~
 
 O método Define valor no Mapa por chave aceita os seguintes parãmetros para a sua execução:

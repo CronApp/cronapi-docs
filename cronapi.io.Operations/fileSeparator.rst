@@ -3,7 +3,7 @@ Separador de arquivos
 
 Função que retorna um separador de arquivos conforme o Sistema Operacional. Exemplo:'/'
 
-Parãmetros
+Parâmetros
 ~~~~~~~~~~
 
 Esse método não possui parâmetros. 

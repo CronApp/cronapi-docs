@@ -3,7 +3,7 @@ Criar série
 
 Função que cria uma série de dados para gráfico
 
-Parãmetros
+Parâmetros
 ~~~~~~~~~~
 
 O método Criar série aceita os seguintes parãmetros para a sua execução:

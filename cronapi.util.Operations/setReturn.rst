@@ -3,7 +3,7 @@ Retorno
 
 Função para incluir um "return" no código.
 
-Parãmetros
+Parâmetros
 ~~~~~~~~~~
 
 O método Retorno aceita os seguintes parãmetros para a sua execução:

@@ -3,13 +3,13 @@ Lança exceção
 
 Função para levantar exceção
 
-Parãmetros
+Parâmetros
 ~~~~~~~~~~
 
 O método Lança exceção aceita os seguintes parãmetros para a sua execução:
 
 exception
 
-    
+    Exceção
 
 .. include:: throwException-ext.rst

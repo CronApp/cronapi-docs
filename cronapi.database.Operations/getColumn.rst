@@ -3,7 +3,7 @@ Obter coluna de dados
 
 Função para obter uma lista de dados da coluna. Exemplo: lista de todos os e-mails de usuários
 
-Parãmetros
+Parâmetros
 ~~~~~~~~~~
 
 O método Obter coluna de dados aceita os seguintes parãmetros para a sua execução:

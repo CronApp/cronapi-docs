@@ -3,13 +3,13 @@ Obtém o nome do elemento
 
 Função que retorna o nome do elemento
 
-Parãmetros
+Parâmetros
 ~~~~~~~~~~
 
 O método Obtém o nome do elemento aceita os seguintes parãmetros para a sua execução:
 
 element
 
-    
+    Elemento da busca
 
 .. include:: XMLGetElementTagName-ext.rst

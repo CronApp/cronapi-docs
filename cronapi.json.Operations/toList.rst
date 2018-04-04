@@ -3,7 +3,7 @@ JSON para lista
 
 Função para converter Texto ou Arquivo para Lista
 
-Parãmetros
+Parâmetros
 ~~~~~~~~~~
 
 O método JSON para lista aceita os seguintes parãmetros para a sua execução:

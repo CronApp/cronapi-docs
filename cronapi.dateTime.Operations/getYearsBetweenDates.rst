@@ -3,17 +3,17 @@ Obter total de anos entre datas
 
 Função para obter total de anos entre datas
 
-Parãmetros
+Parâmetros
 ~~~~~~~~~~
 
 O método Obter total de anos entre datas aceita os seguintes parãmetros para a sua execução:
 
-dateVar
+Maior data
 
-    
+     Maior data a ser subtraida
 
-date2Var
+Menor data
 
-    
+     Menor data a ser subtraida
 
 .. include:: getYearsBetweenDates-ext.rst

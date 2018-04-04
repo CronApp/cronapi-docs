@@ -3,7 +3,7 @@ Redirecionar
 
 Função para redirecionar para url
 
-Parãmetros
+Parâmetros
 ~~~~~~~~~~
 
 O método Redirecionar aceita os seguintes parãmetros para a sua execução:

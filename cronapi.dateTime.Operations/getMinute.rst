@@ -3,13 +3,13 @@ Obter minuto da data
 
 Função para obter minuto da data
 
-Parãmetros
+Parâmetros
 ~~~~~~~~~~
 
 O método Obter minuto da data aceita os seguintes parãmetros para a sua execução:
 
 value
 
-    
+    Data
 
 .. include:: getMinute-ext.rst

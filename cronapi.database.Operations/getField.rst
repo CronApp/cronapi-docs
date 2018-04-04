@@ -3,7 +3,7 @@ Obter campo
 
 Função para obter campo do registro do cursor atual da fonte de dados 
 
-Parãmetros
+Parâmetros
 ~~~~~~~~~~
 
 O método Obter campo aceita os seguintes parãmetros para a sua execução:

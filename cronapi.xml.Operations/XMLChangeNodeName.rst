@@ -3,17 +3,17 @@ Renomeia elemento
 
 Função que renomeia um elemento
 
-Parãmetros
+Parâmetros
 ~~~~~~~~~~
 
 O método Renomeia elemento aceita os seguintes parãmetros para a sua execução:
 
-node
+Elemento
 
-    
+     Objeto do elemento para renomeia
 
 Nome
 
-    
+     Nome do elemento
 
 .. include:: XMLChangeNodeName-ext.rst

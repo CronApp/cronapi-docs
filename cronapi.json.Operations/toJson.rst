@@ -3,7 +3,7 @@ Para Json
 
 Função para converter Texto ou Arquivo para Json
 
-Parãmetros
+Parâmetros
 ~~~~~~~~~~
 
 O método Para Json aceita os seguintes parãmetros para a sua execução:

@@ -3,17 +3,17 @@ Incrementar mês na data
 
 Função para incrementar mês na data
 
-Parãmetros
+Parâmetros
 ~~~~~~~~~~
 
 O método Incrementar mês na data aceita os seguintes parãmetros para a sua execução:
 
 value
 
-    
+    Data
 
 Mês
 
-    
+    Meses a incrementar
 
 .. include:: incMonth-ext.rst

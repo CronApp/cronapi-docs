@@ -3,7 +3,7 @@ Chamar Bloco sem retorno
 
 Função que chama um bloco sem retorno
 
-Parãmetros
+Parâmetros
 ~~~~~~~~~~
 
 O método Chamar Bloco sem retorno aceita os seguintes parãmetros para a sua execução:

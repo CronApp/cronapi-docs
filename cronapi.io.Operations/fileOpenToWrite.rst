@@ -3,17 +3,17 @@ Abrir arquivo para escrita
 
 Função para abrir arquivo para escrita. Esta função é utilizada para obter a referência do arquivo para escrita, podendo adicionar conteúdo neste arquivo.
 
-Parãmetros
+Parâmetros
 ~~~~~~~~~~
 
 O método Abrir arquivo para escrita aceita os seguintes parãmetros para a sua execução:
 
-url
+Caminho do arquivo
 
-    
+     Exemplo: PASTA_TEMPORARIA/MeuArquivo.txt
 
-append
+Texto
 
-    
+     Texto a ser adicionado. Exemplo: "textoParaAdicionar"
 
 .. include:: fileOpenToWrite-ext.rst

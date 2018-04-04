@@ -3,7 +3,7 @@ Obter data e hora atual
 
 Função para obter data e hora atual
 
-Parãmetros
+Parâmetros
 ~~~~~~~~~~
 
 Esse método não possui parâmetros. 

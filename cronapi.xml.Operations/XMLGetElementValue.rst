@@ -3,13 +3,13 @@ Valor do elemento
 
 Função que retorna o valor de um elemento
 
-Parãmetros
+Parâmetros
 ~~~~~~~~~~
 
 O método Valor do elemento aceita os seguintes parãmetros para a sua execução:
 
 element
 
-    
+    Elemento para buscar
 
 .. include:: XMLGetElementValue-ext.rst

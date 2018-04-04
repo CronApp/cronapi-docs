@@ -3,7 +3,7 @@ Envia e-mail
 
 Função que envia e-mail
 
-Parãmetros
+Parâmetros
 ~~~~~~~~~~
 
 O método Envia e-mail aceita os seguintes parãmetros para a sua execução:

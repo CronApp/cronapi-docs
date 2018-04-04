@@ -3,7 +3,7 @@ Ler todo arquivo definindo charset
 
 Função para ler todo arquivo em uma definida codificação de dados. O padrão é UTF-8.
 
-Parãmetros
+Parâmetros
 ~~~~~~~~~~
 
 O método Ler todo arquivo definindo charset aceita os seguintes parãmetros para a sua execução:

@@ -3,17 +3,17 @@ Cria elemento XML
 
 Função que cria um elemento XML
 
-Parãmetros
+Parâmetros
 ~~~~~~~~~~
 
 O método Cria elemento XML aceita os seguintes parãmetros para a sua execução:
 
 Nome
 
-    
+    Nome do elemento
 
-value
+Conteúdo
 
-    
+     Conteúdo opcional do elemento
 
 .. include:: XMLcreateElement-ext.rst

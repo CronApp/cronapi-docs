@@ -3,7 +3,7 @@ Criar gráfico
 
 Função que cria um gráfico
 
-Parãmetros
+Parâmetros
 ~~~~~~~~~~
 
 O método Criar gráfico aceita os seguintes parãmetros para a sua execução:

@@ -3,17 +3,17 @@ Ler conteúdo do arquivo
 
 Função para ler conteúdo do arquivo no tamanho especificado do parâmetro.
 
-Parãmetros
+Parâmetros
 ~~~~~~~~~~
 
 O método Ler conteúdo do arquivo aceita os seguintes parãmetros para a sua execução:
 
-input
+Arquivo aberto para leitura
 
-    
+     Retorno da função "Abrir arquivo para leitura"
 
-Tamanho
+Tamanho em bytes
 
-    
+     Tamanho em bytes para ser do arquivo
 
 .. include:: fileRead-ext.rst

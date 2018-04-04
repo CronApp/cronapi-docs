@@ -3,7 +3,7 @@ Gerar Relatório
 
 Função para gerar arquivo do relatório na pasta desejada.
 
-Parãmetros
+Parâmetros
 ~~~~~~~~~~
 
 O método Gerar Relatório aceita os seguintes parãmetros para a sua execução:

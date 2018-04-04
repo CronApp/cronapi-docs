@@ -3,7 +3,7 @@ cronapi.util.Operations.Method.translateAcentos.Name
 
 cronapi.util.Operations.Method.translateAcentos.Description
 
-Parãmetros
+Parâmetros
 ~~~~~~~~~~
 
 O método cronapi.util.Operations.Method.translateAcentos.Name aceita os seguintes parãmetros para a sua execução:

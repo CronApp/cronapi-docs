@@ -3,7 +3,7 @@ Criar objeto Json
 
 Função para criar objeto Json
 
-Parãmetros
+Parâmetros
 ~~~~~~~~~~
 
 Esse método não possui parâmetros. 

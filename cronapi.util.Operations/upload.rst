@@ -3,7 +3,7 @@ Upload de arquivo
 
 "Função que envia arquivos para o servidor
 
-Parãmetros
+Parâmetros
 ~~~~~~~~~~
 
 O método Upload de arquivo aceita os seguintes parãmetros para a sua execução:

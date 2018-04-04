@@ -3,7 +3,7 @@ Define valor do
 
 Função para definir campo do objeto
 
-Parãmetros
+Parâmetros
 ~~~~~~~~~~
 
 O método Define valor do aceita os seguintes parãmetros para a sua execução:

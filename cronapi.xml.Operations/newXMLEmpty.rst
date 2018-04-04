@@ -3,13 +3,13 @@ Cria XML
 
 Função que cria XML
 
-Parãmetros
+Parâmetros
 ~~~~~~~~~~
 
 O método Cria XML aceita os seguintes parãmetros para a sua execução:
 
-rootElement
+Elemento raiz
 
-    
+    Elemento raiz adicionado no XML
 
 .. include:: newXMLEmpty-ext.rst

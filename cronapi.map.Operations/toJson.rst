@@ -3,7 +3,7 @@ Mapa para JSON
 
 Função para converter Texto ou Arquivo para Json
 
-Parãmetros
+Parâmetros
 ~~~~~~~~~~
 
 O método Mapa para JSON aceita os seguintes parãmetros para a sua execução:

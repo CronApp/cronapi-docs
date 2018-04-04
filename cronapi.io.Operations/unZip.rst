@@ -3,17 +3,17 @@ Descompactar arquivo zip
 
 Função para descompactar arquivo zip na pasta de destino.
 
-Parãmetros
+Parâmetros
 ~~~~~~~~~~
 
 O método Descompactar arquivo zip aceita os seguintes parãmetros para a sua execução:
 
-zippedFile
+Arquivo aberto para leitura
 
-    
+     Retorno da função "Abrir arquivo para leitura"
 
-destFolder
+Pasta de destino
 
-    
+     Caminho completo da pasta de destino. Exemplo: /MinhaPasta/
 
 .. include:: unZip-ext.rst

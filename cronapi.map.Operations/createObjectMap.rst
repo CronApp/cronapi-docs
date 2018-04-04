@@ -3,7 +3,7 @@ Criar objeto mapa
 
 Função para criar objeto Mapa
 
-Parãmetros
+Parâmetros
 ~~~~~~~~~~
 
 Esse método não possui parâmetros. 

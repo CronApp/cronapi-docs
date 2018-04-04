@@ -3,7 +3,7 @@ cronapi.util.Operations.Method.callBlockly.Name
 
 cronapi.util.Operations.Method.callBlockly.Description
 
-Parãmetros
+Parâmetros
 ~~~~~~~~~~
 
 O método cronapi.util.Operations.Method.callBlockly.Name aceita os seguintes parãmetros para a sua execução:

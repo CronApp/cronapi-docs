@@ -3,7 +3,7 @@
 
 Função que verifica se a varíavel é nula
 
-Parãmetros
+Parâmetros
 ~~~~~~~~~~
 
 O método é nulo? aceita os seguintes parãmetros para a sua execução:

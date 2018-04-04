@@ -3,7 +3,7 @@ Obter cabeçalho da URL
 
 Função que realiza uma requisição à uma URL e obtém o cabeçalho de resposta
 
-Parãmetros
+Parâmetros
 ~~~~~~~~~~
 
 O método Obter cabeçalho da URL aceita os seguintes parãmetros para a sua execução:

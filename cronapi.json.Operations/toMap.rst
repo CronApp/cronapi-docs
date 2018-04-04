@@ -3,7 +3,7 @@ Para Mapa
 
 Função para converter Texto ou Arquivo para Mapa
 
-Parãmetros
+Parâmetros
 ~~~~~~~~~~
 
 O método Para Mapa aceita os seguintes parãmetros para a sua execução:

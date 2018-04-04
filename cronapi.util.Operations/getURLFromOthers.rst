@@ -3,7 +3,7 @@ Obter conteúdo da URL
 
 Função que realiza uma requisição à uma URL e obtém o conteúdo de resposta
 
-Parãmetros
+Parâmetros
 ~~~~~~~~~~
 
 O método Obter conteúdo da URL aceita os seguintes parãmetros para a sua execução:

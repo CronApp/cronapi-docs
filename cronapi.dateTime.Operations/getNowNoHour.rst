@@ -3,7 +3,7 @@ Obter data atual sem hora
 
 Função para obter data atual sem hora
 
-Parãmetros
+Parâmetros
 ~~~~~~~~~~
 
 Esse método não possui parâmetros. 

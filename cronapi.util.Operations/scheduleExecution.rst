@@ -3,7 +3,7 @@ Agendar Execução
 
 Função para agendar execução de uma rotina.
 
-Parãmetros
+Parâmetros
 ~~~~~~~~~~
 
 O método Agendar Execução aceita os seguintes parãmetros para a sua execução:

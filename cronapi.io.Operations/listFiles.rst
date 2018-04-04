@@ -3,7 +3,7 @@ Obter lista de arquivos
 
 Função que lista arquivos
 
-Parãmetros
+Parâmetros
 ~~~~~~~~~~
 
 O método Obter lista de arquivos aceita os seguintes parãmetros para a sua execução:

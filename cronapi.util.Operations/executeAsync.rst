@@ -3,13 +3,13 @@ Executar Assíncrono
 
 Função para executar comandos assíncrono.
 
-Parãmetros
+Parâmetros
 ~~~~~~~~~~
 
 O método Executar Assíncrono  aceita os seguintes parãmetros para a sua execução:
 
 Comando
 
-    
+    Comando
 
 .. include:: executeAsync-ext.rst

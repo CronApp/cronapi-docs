@@ -3,7 +3,7 @@ Cria identificador universal
 
 Função que cria um identificador universal (UUID) e retorna como texto
 
-Parãmetros
+Parâmetros
 ~~~~~~~~~~
 
 Esse método não possui parâmetros. 

@@ -3,7 +3,7 @@ Define valor no Mapa por caminho
 
 Função para definir campo do mapa através de um determinado caminho
 
-Parãmetros
+Parâmetros
 ~~~~~~~~~~
 
 O método Define valor no Mapa por caminho aceita os seguintes parãmetros para a sua execução:

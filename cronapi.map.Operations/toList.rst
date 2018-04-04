@@ -3,7 +3,7 @@ Mapa para lista
 
 Função para converter Texto ou Arquivo para Lista
 
-Parãmetros
+Parâmetros
 ~~~~~~~~~~
 
 O método Mapa para lista aceita os seguintes parãmetros para a sua execução:
