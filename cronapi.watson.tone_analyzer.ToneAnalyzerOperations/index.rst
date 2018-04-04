@@ -7,5 +7,7 @@ O IBM Watson™ Tone Analyzer usa análise linguística para detectar tons emoci
    :maxdepth: 2
    :caption: Funções
 
-   tone   toneChat
+   tone
+   toneChat
+   
 .. include:: index-ext.rst

@@ -7,5 +7,19 @@ O IBM Watson™ Text to Speech fornece uma API que usa os recursos de síntese d
    :maxdepth: 2
    :caption: Funções
 
-   getVoices   getVoice   getVoice   getPronunciation   getPronunciation   synthesize   synthesize   synthesize   getCustomVoiceModels   getCustomVoiceModel   createCustomVoiceModel   updateCustomVoiceModel   deleteCustomVoiceModel   getWords   getWord   addWords   addWord   deleteWord
+   getVoices
+   getVoice
+   getPronunciation
+   synthesize
+   getCustomVoiceModels
+   getCustomVoiceModel
+   createCustomVoiceModel
+   updateCustomVoiceModel
+   deleteCustomVoiceModel
+   getWords
+   getWord
+   addWords
+   addWord
+   deleteWord
+   
 .. include:: index-ext.rst

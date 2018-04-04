@@ -7,5 +7,12 @@ O IBM Watson™ Language Translator traduz texto de um idioma para outro usando 
    :maxdepth: 2
    :caption: Funções
 
-   translate   identify   listIdentifiableLanguages   listIdentifiableLanguages   createModel   deleteModel   getModel   listModels   listModels
+   translate
+   identify
+   listIdentifiableLanguages
+   createModel
+   deleteModel
+   getModel
+   listModels
+   
 .. include:: index-ext.rst

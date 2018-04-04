@@ -7,5 +7,12 @@ O IBM Watson™ Visual Recognition identifica cenas, objetos e rostos de celebri
    :maxdepth: 2
    :caption: Funções
 
-   classify   detectFaces   createClassifier   deleteClassifier   getClassifier   listClassifiers   updateClassifier
+   classify
+   detectFaces
+   createClassifier
+   deleteClassifier
+   getClassifier
+   listClassifiers
+   updateClassifier
+   
 .. include:: index-ext.rst

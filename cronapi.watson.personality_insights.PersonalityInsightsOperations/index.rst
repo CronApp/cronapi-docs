@@ -7,5 +7,7 @@ O IBM Watson™ Personality Insights obtém informações sobre características
    :maxdepth: 2
    :caption: Funções
 
-   profile   getProfileAsCSV
+   profile
+   getProfileAsCSV
+   
 .. include:: index-ext.rst

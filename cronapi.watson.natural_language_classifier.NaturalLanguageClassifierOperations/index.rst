@@ -7,5 +7,10 @@ O IBM Watson™ Natural Language Classifier usa algoritmos de aprendizado de má
    :maxdepth: 2
    :caption: Funções
 
-   classify   createClassifier   deleteClassifier   getClassifier   getClassifiers
+   classify
+   createClassifier
+   deleteClassifier
+   getClassifier
+   getClassifiers
+   
 .. include:: index-ext.rst

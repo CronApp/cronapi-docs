@@ -7,5 +7,31 @@ O IBM Watson™ Speech to Text fornece uma API que permite adicionar recursos de
    :maxdepth: 2
    :caption: Funções
 
-   addCorpus   addWord   addWords   createCustomization   createCustomization   createRecognitionJob   createSession   createSession   deleteCorpus   deleteCustomization   deleteRecognitionJob   deleteSession   deleteWord   getCorpora   getCorpus   getCustomization   getCustomizations   getModel   getModels   getRecognitionJob   getRecognitionJobs   getRecognizeStatus   getWord   getWords   getWords   recognize   recognize   recognizeUsingWebSocket   registerCallback   resetCustomization   trainCustomization
+   addCorpus
+   addWord
+   addWords
+   createCustomization
+   createRecognitionJob
+   createSession
+   deleteCorpus
+   deleteCustomization
+   deleteRecognitionJob
+   deleteSession
+   deleteWord
+   getCorpora
+   getCorpus
+   getCustomization
+   getCustomizations
+   getModel
+   getModels
+   getRecognitionJob
+   getRecognitionJobs
+   getRecognizeStatus
+   getWord
+   getWords
+   recognize 
+   recognizeUsingWebSocket
+   registerCallback
+   resetCustomization
+   trainCustomization
 .. include:: index-ext.rst

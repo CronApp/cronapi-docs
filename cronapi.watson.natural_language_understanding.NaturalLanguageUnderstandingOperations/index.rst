@@ -7,5 +7,8 @@ O IBM Watson™ Natural Language Understanding usa processamento de linguagem na
    :maxdepth: 2
    :caption: Funções
 
-   analyze   deleteModel   listModels
+   analyze
+   deleteModel
+   listModels
+   
 .. include:: index-ext.rst
