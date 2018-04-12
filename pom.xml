@@ -180,6 +180,11 @@
             <artifactId>cronapi-watson-personality-insights</artifactId>
             <version>4.2.1.0</version>
         </dependency>
+        <dependency>
+            <groupId>io.cronapp</groupId>
+            <artifactId>cronapi-watson-conversation</artifactId>
+            <version>4.2.1.0</version>
+        </dependency>
     </dependencies>
     <properties>
         <project.build.sourceEncoding>UTF-8</project.build.sourceEncoding>

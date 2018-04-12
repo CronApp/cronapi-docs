@@ -2,10 +2,8 @@
 
 .. toctree::
    :maxdepth: 2
-   :caption: cronapi.screen
+   :caption: cronapi.watson.conversation
 
-   multilayer/index
    server/index
-   web/index
 
 .. include:: index-footer.rst

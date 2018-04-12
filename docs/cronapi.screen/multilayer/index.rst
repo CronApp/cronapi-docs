@@ -13,7 +13,6 @@
    fieldFromScreen
    filter
    hideComponent
-   hideIonicModal
    hideModal
    logout
    nextRecord
@@ -25,7 +24,7 @@
    removeRecord
    searchIds
    showComponent
-   showIonicModal
+   showModal
    startEditingMode
    startInsertingMode
 
