@@ -1,0 +1,5 @@
+Documentação das Apis do CronApp
+================================
+
+
+Lorem ipsum dolor sit amet, consectetur adipiscing elit. Donec ac lobortis lacus. Class aptent taciti sociosqu ad litora torquent per conubia nostra, per inceptos himenaeos. Sed id tortor lectus. Nulla elit magna, fringilla sit amet arcu vitae, luctus tincidunt felis. Nulla quis blandit metus. Praesent aliquet tincidunt dictum. Aliquam ut velit vel quam fringilla sagittis. Fusce efficitur est elit, ut iaculis velit vestibulum in. Morbi eu rutrum magna. Sed eget consectetur urna. Nulla ut aliquet arcu. Fusce fringilla metus neque, a semper urna blandit nec. Class aptent taciti sociosqu ad litora torquent per conubia nostra, per inceptos himenaeos. Maecenas quis porta eros, sit amet finibus massa. Nunc eu tincidunt est, ac ornare augue. Nulla consequat et mi sit amet aliquet.
