@@ -23,7 +23,8 @@
   ],
   "dependencies": {
     "cronapp-framework-js": "0.0.182-d-s",
-    "cronapi-js": "0.0.111-d-s"
+    "cronapi-js": "0.0.111-d-s",
+    "cronapp-google-maps": "0.0.7"
   },
   "resolutions": {
     "angular": "1.6.9"

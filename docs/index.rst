@@ -13,6 +13,7 @@
    cronapi.json/index
    cronapi.logic/index
    cronapi.map/index
+   cronapi.maps/index
    cronapi.object/index
    cronapi.pushnotification/index
    cronapi.report/index
