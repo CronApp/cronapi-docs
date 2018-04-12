@@ -1,17 +1,32 @@
-Welcome to CronApi's documentation!
-===================================
+.. include:: index-header.rst
 
 .. toctree::
-   :maxdepth: 2
-   :caption: Referência das Apis
-   
-   servidor
-   cliente
-   mobile
-   
-.. toctree::
    :maxdepth: 1
-   :caption: O Que é...
-   
-   whatis/base64
-   
+   :caption: Referência das Apis
+
+   cronapi.chart/index
+   cronapi.conversion/index
+   cronapi.cordova.camera/index
+   cronapi.cordova.connection/index
+   cronapi.cordova.database/index
+   cronapi.cordova.file/index
+   cronapi.cordova.geolocation/index
+   cronapi.cordova.storage/index
+   cronapi.cordova/index
+   cronapi.database/index
+   cronapi.dateTime/index
+   cronapi.email/index
+   cronapi.io/index
+   cronapi.json/index
+   cronapi.logic/index
+   cronapi.map/index
+   cronapi.object/index
+   cronapi.pushnotification/index
+   cronapi.report/index
+   cronapi.screen/index
+   cronapi.text/index
+   cronapi.util/index
+   cronapi.watson.personality_insights/index
+   cronapi.xml/index
+
+.. include:: index-footer.rst

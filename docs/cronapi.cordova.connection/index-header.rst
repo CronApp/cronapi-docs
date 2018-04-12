@@ -1,0 +1,2 @@
+cronapi.cordova.connection
+==========================
