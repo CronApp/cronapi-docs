@@ -5,21 +5,16 @@ Função que centraliza o mapa nas coordenadas informadas.
 
 O método Centraliza o mapa aceita os seguintes parâmetros para a sua execução:
 
-* :durole: `mapId`.. _Id do mapa
-* (:duref:`Id do mapa <mapId`)
-* .. _Longitude: #longitude
+* `Id do mapa`_
+* `Latitude`_
+* `Longitude`_
 
 Compatibilidade
 ---------------
-* .. image:: ../../img/blockly_client.png 
-* .. figure:: ../../img/blockly_server.png
-
-.. |Cliente| image:: ../../img/blockly_client.png
-.. |Servidor| image:: ../../img/blockly_server.png
+* .. image:: ../../img/blockly_client.png Cliente
+* .. image:: ../../img/blockly_server.png Servidor
 
 Parâmetros
 ----------
-
-
 
 .. include:: centralizeMap-ext.rst
