@@ -25,13 +25,6 @@ Sed diam ligula, volutpat eu semper 'volutpat <http://www.google.com>'_, laoreet
 
 Teste4 aqui
 -----------
-
-.. hlist::
-  :columns:3
-    *teste1
-    *teste1
-    *Teste2
-    *teste5
     
     
 .. image:: ../image/image1.jpg
