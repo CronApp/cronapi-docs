@@ -40,5 +40,14 @@ Teste4 aqui
   :alt: Texto teste 
   :target: linkado (http://www.cronapp.io)
   
+teste1
+
+.. figure:: ../image/image1.jpg
+  :height: 350px
+  :align: right
+  :alt: Texto teste 2
+  :target: linkado (http://ide.cronapp.io)
+  Teste de legenda no Figura.
   
-teste
+teste2
+
