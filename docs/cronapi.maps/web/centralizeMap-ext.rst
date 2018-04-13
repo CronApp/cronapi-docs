@@ -21,14 +21,17 @@ Duis ut rhoncus justo. Morbi nec rhoncus mi. Maecenas scelerisque lacus in augue
 .. note::
   Vestibulum venenatis felis pellentesque posuere iaculis.
 
-Sed diam ligula, volutpat eu semper volutpat, laoreet eget nisl. Vestibulum venenatis felis pellentesque posuere iaculis. Integer nunc ex, elementum id rhoncus id, imperdiet eu libero.
+Sed diam ligula, volutpat eu semper 'volutpat <http://www.google.com>'_, laoreet eget nisl. Vestibulum venenatis felis pellentesque posuere iaculis. Integer nunc ex, elementum id rhoncus id, imperdiet eu libero.
 
 Teste4 aqui
 -----------
 
 .. hlist::
   :columns:3
-  *teste1
-  *teste1
-  *Teste2
-  *teste5
+    *teste1
+    *teste1
+    *Teste2
+    *teste5
+    
+    
+.. image:: ../image/image1.jpg
