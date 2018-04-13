@@ -11,8 +11,11 @@ O método Centraliza o mapa aceita os seguintes parâmetros para a sua execuçã
 
 Compatibilidade
 ---------------
-* .. |Cliente| image:: ../../img/blockly_client.png
-* .. |Servidor| image:: ../../img/blockly_server.png
+* .. image:: ../../img/blockly_client.png
+* .. figure:: ../../img/blockly_server.png
+
+.. |Cliente| image:: ../../img/blockly_client.png
+.. |Servidor| image:: ../../img/blockly_server.png
 
 Parâmetros
 ----------
