@@ -35,5 +35,10 @@ Teste4 aqui
     
     
 .. image:: ../image/image1.jpg
-
+  :height: 250px
+  :align: center
+  :alt: Texto teste 
+  :target: linkado (http://www.cronapp.io)
+  
+  
 teste
