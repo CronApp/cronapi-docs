@@ -19,7 +19,8 @@ Coordenadas geográficas Norte - Sul.
 Exemplo
 -------
 
-A função abaixo obtém o id do mapa, além das coordenadas geográficas para centralizá-lo no local indicado.
+A função abaixo obtém o as coordenadas geográficas, além do id do componente do mapa a fim de centralizá-lo. Essa função poderia ser utilizada a partir do evento 'Ao clicar' do componente mapa.
 
 .. figure:: ../image/centralizeMap_exp.jpg
-  Exemplo de uso da função, podendo ser chamada a partir do clique de um botão.
+  :align: center
+  Exemplo de uso da função
