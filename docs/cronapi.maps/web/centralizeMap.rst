@@ -17,7 +17,4 @@ Compatibilidade
 .. |Cliente| image:: ../../img/blockly_client.png
 .. |Servidor| image:: ../../img/blockly_server.png
 
-Parâmetros
-----------
-
 .. include:: centralizeMap-ext.rst

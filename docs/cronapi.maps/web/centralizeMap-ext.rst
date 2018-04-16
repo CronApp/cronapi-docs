@@ -1,3 +1,8 @@
+Retorno
+-------
+
+Função não possui retorno.
+
 Id do mapa
 ~~~~~~~~~~
 **Tipo:** Identificador.
