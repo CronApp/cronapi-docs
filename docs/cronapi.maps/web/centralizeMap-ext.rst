@@ -1,16 +1,19 @@
 Id do mapa
 ~~~~~~~~~~
-Tipo: Identificador.
+**Tipo:** Identificador.
+
 Identificador do mapa que será centralizado.
 
 Latitude
 ~~~~~~~~
-Tipo: String.
+**Tipo:** String.
+
 Coordenadas geográficas Leste - Oeste.
 
 Longitude
 ~~~~~~~~~
-Tipo: String.
+**Tipo:** String.
+
 Coordenadas geográficas Norte - Sul.
 
 Exemplo
@@ -18,5 +21,5 @@ Exemplo
 
 A função abaixo obtém o id do mapa, além das coordenadas geográficas para centralizá-lo no local indicado.
 
-.. figure:: ../image/centralizeMap-ext.rst
+.. figure:: ../image/centralizeMap_exp.jpg
   Exemplo de uso da função, podendo ser chamada a partir do clique de um botão.
