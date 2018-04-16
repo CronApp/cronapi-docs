@@ -3,6 +3,9 @@ Retorno
 
 Função não possui retorno.
 
+Parâmetros
+----------
+
 Id do mapa
 ~~~~~~~~~~
 **Tipo:** Identificador.
