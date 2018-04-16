@@ -15,8 +15,8 @@ Compatibilidade
 * |Cliente| Cliente.
 * |Servidor| Servidor
 
-.. |Cliente| image:: ../img/blockly_client.png
-.. |Servidor| figure:: ../img/blockly_server.png
+.. |Cliente| image:: ../../img/blockly_client.png
+.. |Servidor| figure:: ../../img/blockly_server.png
 
 Parâmetros
 ----------
