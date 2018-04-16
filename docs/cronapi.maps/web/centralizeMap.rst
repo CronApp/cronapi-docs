@@ -4,19 +4,17 @@ Centraliza o mapa
 Função que centraliza o mapa nas coordenadas informadas.
 
 O método Centraliza o mapa aceita os seguintes parâmetros para a sua execução:
-
-* `Id do mapa`_
-* `Latitude`_
-* `Longitude`_
+* Id do mapa_
+* Latitude_
+* Longitude_
 
 Compatibilidade
 ---------------
-* .. figure:: ../../img/blockly_client.png
-* |Cliente| Cliente.
+* |Cliente| Cliente
 * |Servidor| Servidor
 
 .. |Cliente| image:: ../../img/blockly_client.png
-.. |Servidor| figure:: ../../img/blockly_server.png
+.. |Servidor| image:: ../../img/blockly_server.png
 
 Parâmetros
 ----------

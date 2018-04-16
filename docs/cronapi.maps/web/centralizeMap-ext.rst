@@ -1,12 +1,22 @@
 Id do mapa
 ~~~~~~~~~~
-A reStructuredText document is made up of body or block-level elements, and may be structured into sections.
+Tipo: Identificador.
+Identificador do mapa que será centralizado.
 
 Latitude
 ~~~~~~~~
-Ython-specific usage examples; begun with
+Tipo: String.
+Coordenadas geográficas Leste - Oeste.
 
 Longitude
 ~~~~~~~~~
-Comments begin with two dots and a space.
+Tipo: String.
+Coordenadas geográficas Norte - Sul.
 
+Exemplo
+-------
+
+A função abaixo obtém o id do mapa, além das coordenadas geográficas para centralizá-lo no local indicado.
+
+.. figure:: ../image/centralizeMap-ext.rst
+  Exemplo de uso da função, podendo ser chamada a partir do clique de um botão.
