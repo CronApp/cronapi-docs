@@ -1,9 +1,12 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<blockly formTarget="" resourceType="JAVA" ruleDescription="Bloco" ruleName="Bloco" ruleSynchronous="false" ruleType="I">
-<block colour="#995ba5" id="Anb:u5+^,0vLkL9QIqn5" tooltip="Bloco - Executar" type="procedures_defreturn" x="-350" y="130">
-<mutation>
-</mutation>
-<field name="NAME">Executar</field>
-<comment h="80" pinned="false" w="160">Bloco</comment>
-</block>
+<?xml version="1.0" encoding="UTF-8"?><blockly formTarget="" resourceType="JAVA" ruleDescription="Bloco" ruleName="Bloco" ruleSynchronous="false" ruleTimeout="" ruleType="I">
+  <metadata scale="1" scrollx="364.00000000000057" scrolly="-4.000000000000057" target="Anb:u5+^,0vLkL9QIqn5"/>
+  <block colour="#995ba5" id="Anb:u5+^,0vLkL9QIqn5" origintype="procedures_defreturn" output="false" tooltip="Cria uma função que possui um valor de retorno." type="procedures_defreturn" x="-350" y="130">
+    <field name="NAME">Executar</field>
+    <comment h="80" pinned="false" w="160">Bloco</comment>
+    <statement name="STACK">
+      <block colour="#db802b" dependencyby="Anb:u5+^,0vLkL9QIqn5" id="aGxEn]DD}v.5y]7J~A%S" multilayer="false" namespace="cronapi.database.Operations.execute" origintype="procedures_sql_command_callnoreturn" output="false" returntype="ObjectType.DATASET" tooltip="%3Cdiv%20class=%22name%22%3E%3Cstrong%3ENome:%3C/strong%3E%3Cdiv%3EAbrir%20Consulta%20JPQL%3C/div%3E%3C/div%3E%3Cdiv%20class=%22description%22%3E%3Cstrong%3EDescri%C3%A7%C3%A3o:%3C/strong%3E%3Cdiv%3EFun%C3%A7%C3%A3o%20para%20executar%20comando%20JPQL%3C/div%3E%3C/div%3E%3Cdiv%20class=%22params%22%3E%3Cstrong%3EParam%C3%AAtro:%3C/strong%3E%3Cdiv%3E%3Cspan%3E%20-%20Entidade%20:%20Texto%3C/span%3E%3Cbr%3E%3Cspan%3E%20-%20Consulta%20SQL%20:%20Texto%3C/span%3E%3Cbr%3E%3Cspan%3E%20-%20Par%C3%A2metros%20para%20consulta%20:%20Lista%3C/span%3E%3Cbr%3E%3C/div%3E%3C/div%3E%3Cdiv%20class=%22link%22%3E%3Cstrong%3EAjuda:%3C/strong%3E%3Cdiv%20class=%22tooltip-link%22%3E%3Ca%20target=%22_blank%22%20href=%22https://docs.cronapp.io/display/CRON2/cronapi.database.Operations.execute%22%3Ehttps://docs.cronapp.io/display/CRON2/cronapi.database.Operations.execute%3C/a%3E%3C/div%3E%3C/div%3E" type="procedures_sql_command_callnoreturn">
+        <mutation data="null" name="{{cronapi.database.Operations.execute}}"/>
+      </block>
+    </statement>
+  </block>
 </blockly>
