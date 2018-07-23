@@ -4,6 +4,7 @@
    :maxdepth: 1
    :caption: Referência das Apis
 
+   cronapi.blockchain/index
    cronapi.chart/index
    cronapi.conversion/index
    cronapi.database/index
@@ -23,5 +24,6 @@
    cronapi.watson.conversation/index
    cronapi.watson.personality_insights/index
    cronapi.xml/index
+   docs.Tutoriais/index
 
 .. include:: index-footer.rst
