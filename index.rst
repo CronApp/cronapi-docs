@@ -36,3 +36,4 @@
    web/index
    web/index
    web/index
+   Tutoriais/index 
