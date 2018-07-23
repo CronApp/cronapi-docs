@@ -24,6 +24,5 @@
    cronapi.watson.conversation/index
    cronapi.watson.personality_insights/index
    cronapi.xml/index
-   docs.Tutoriais/index
 
 .. include:: index-footer.rst
