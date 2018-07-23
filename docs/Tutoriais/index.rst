@@ -2,8 +2,8 @@
 
 .. toctree::
    :maxdepth: 2
-   :caption: cronapi.text
+   :caption: Tutoriais
 
-   web/index
+   Redes_Sociais/index
 
 .. include:: index-footer.rst
