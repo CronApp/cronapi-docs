@@ -1,7 +1,7 @@
 .. include:: index-header.rst
 
 .. toctree::
-   :maxdepth: 2
+   :maxdepth: 1
    :caption: Redes Sociais
 
    Redes_Sociais/index
