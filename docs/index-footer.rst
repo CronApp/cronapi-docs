@@ -2,7 +2,7 @@
    :maxdepth: 1
    :caption: O que é...
 
-   whatis/index
+   whatis/base64
 
 .. toctree::
    :maxdepth: 2
