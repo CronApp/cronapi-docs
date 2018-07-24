@@ -33,4 +33,4 @@ Abaixo seguem os links para os tutoriais que ensina o processo de aquisição do
     * `Linkedin <https://docs.cronapp.io/display/CRON2/Obter+ID+e+Chave+secreta+para+permitir+o+login+social+de+contas+Linkedin>`_
 
     .. note::
-        ** Usuários do CronApppp:** Não é necessário obter ID ou chave secreta para permitir que usuários loguem em seu sistema utilizando o cadastro do CronApp, basta que seu sistema possua permissão para realizar o login social (Figura 5) e esteja ativo o login pelo CronApp (Figura 4).
+        **Usuários do CronApppp:** Não é necessário obter ID ou chave secreta para permitir que usuários loguem em seu sistema utilizando o cadastro do CronApp, basta que seu sistema possua permissão para realizar o login social (Figura 5) e esteja ativo o login pelo CronApp (Figura 4).
