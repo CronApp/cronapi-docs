@@ -19,8 +19,7 @@ Visão geral: exemplo
 --------------------
 Nesse tutorial iremos aprender a configurar login social em sua aplicação ou site desenvolvido pelo CronApp, permitindo que o usuário da seu sistema logue utilizando uma das suas redes sociais (Figura 1).
 
-.. figure:: https://docs.cronapp.io/download/attachments/30278695/1-login.JPG?version=1&modificationDate=1521659072556&api=v2
-   :figclass: foobar
+.. image:: https://docs.cronapp.io/download/attachments/30278695/1-login.JPG?version=1&modificationDate=1521659072556&api=v2
 
 Obter ID e chave secreta da rede social
 ---------------------------------------
