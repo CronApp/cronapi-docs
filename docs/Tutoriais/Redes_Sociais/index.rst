@@ -2,7 +2,7 @@
 
 .. toctree::
    :maxdepth: 1
-   :caption: Redes_Sociais
+   :caption: Login Social
 
    Adicionar_Login_por_redes_sociais_em_sua_aplicacao
 
