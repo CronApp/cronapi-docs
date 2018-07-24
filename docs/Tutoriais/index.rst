@@ -2,7 +2,7 @@
 
 .. toctree::
    :maxdepth: 2
-   :caption: Tutoriais
+   :caption: Redes Sociais
 
    Redes_Sociais/index
 
