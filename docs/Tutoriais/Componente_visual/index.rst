@@ -2,9 +2,9 @@
 
 .. toctree::
    :maxdepth: 1
-   :caption: Redes Sociais
+   :caption: Componente visual
 
-   Redes_Sociais/index
-   Componente_visual/index
+   utilizando_o_componente_editor_de_texto_rico
+
 
 .. include:: index-footer.rst
