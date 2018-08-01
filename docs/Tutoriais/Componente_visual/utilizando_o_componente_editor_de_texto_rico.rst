@@ -45,7 +45,8 @@ Algumas funcionalidades do editor são bem interessantes como mostradas na Tabel
 +-------------+---------------------------------------------------------------------------------------------------------------------------+
 **Tabela 1 - Algumas funcionalidades do editor de texto rico.**
 
-O Editor de texto rico é dividido em 4 partes, como destacado na Figura 2: Barra de menu (1), Barra de tarefas (2), Barra de status (3) e área de edição do texto, que na Figura 2 está estilizada a cor da fonte (vermelho) e a cor de fundo do texto (cor coral). 
+O Editor de texto rico é dividido em 4 partes, como destacado na Figura 2: Barra de menu (1), Barra de tarefas (2), Barra de status (3) e área de edição do texto, que na Figura 2 está estilizada a cor da fonte (vermelho) e a cor de fundo do texto (cor coral).
+
 | |image7|
 **Figura 2 - Estrutura do editor de texto rico.**
 
@@ -54,7 +55,6 @@ O Editor de texto rico é dividido em 4 partes, como destacado na Figura 2: Barr
 
 No editor de texto rico do CronApp é possível desabilitar alguns ícones que aparecem na barra de tarefas e ocultar as barras de status e menu, além de estilizar o texto do usuário com o uso do CSS.
 Essas personalizações podem ser feitas utilizando a propriedade Opções (options) do texto rico, como mostradas nas figura 3 e 4: Selecione o campo texto rico na tela (1), clique na subaba “CAMPO” na aba propriedades (2) e clique em “…” da propriedade Opções (3) para exibir a janela de “Opções do Editor Rico” e selecione a aba "Geral" para Ocultar as barras menu, status e estilizar o texto ou a aba "Barra de tarefas"para desabilitar algumas funcionalidades do editor (4).
-
 
 | |image8|
 
@@ -66,7 +66,6 @@ Essas personalizações podem ser feitas utilizando a propriedade Opções (opti
 
 Adicionar fórmulas químicas e equações matemáticas no editor de texto rico é muito simples, basta utilizar as funcionalidades "Inserir uma equação matemática" e "Inserir uma fórmula química". Ambas possuem diversos símbolos matemáticos e químicos para criar fórmulas (Figura 5), além de permitir que o usuário escreva/desenhe a fórmula que será interpretada pelo editor (Figura 6). Outra opção é utilizar comandos LaTex (Figura 7), veja como utilizar em \ `LaTex support <http://docs.wiris.com/en/mathtype/mathtype_web/latex-support>`__. 
  
-
 | |image10|
 **Figura 5 - Adicionando fórmulas químicas.**
 
@@ -101,6 +100,7 @@ Precisamos agora vincular o componente editor de texto rico com o campo "conteud
 ~~~~~~~~~~~~~~~~~~~
 
 O Editor de texto rico converte todo o seu conteúdo para HTML, por isso, se não tiver um tratamento no campo que irá exibir o conteúdo, ele ficará como na Figura 11.
+
 | |image16|
 **Figura 11 - Exibição do conteúdo do texto rico sem tratamento.**
  
@@ -117,13 +117,13 @@ Para evitar isso, precisamos adicionar a propriedade "Vincular HTML"(ng-bind-htm
 ~~~~~~~~~~~~~~~~~~~~~~~~
 
 Para acessarmos a página do CRUD que criamos, vamos adicionar um link (1) na nossa home e referenciá-la com a página email.view.html (2). (Figura 13)
+
 | |image18|
 **Figura 13 - Adicionando link para a página criada.**
 
  
 Salve os arquivos alterados e execute a aplicação (F9) ou Debug (F11). Após abrir a aplicação, informe login e senha "admin" e confirme para acessar a página home, clique no link que inserimos no\ `passo acima <#UtilizandoocomponenteEditordeTextoRico->`__ para ser direcionado a página que criamos no tutorial.
 Clique no botão "Novo", informe um destinatário e um conteúdo formatado como na Figura 14. Ao salvar, o conteúdo será renderizado na grid como na Figura 15.
- 
 
 | |image19| 
 **Figura 14 - Inserindo um conteúdo formatado no editor de texto rico.**
