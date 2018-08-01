@@ -59,8 +59,6 @@ Essas personalizações podem ser feitas utilizando a propriedade Opções (opti
 | |image8|
 
 | |image9|
-
-
 **Figura 3 e 4 - A configuração exibida aqui está representada na Figura 2.**
 
 2. Equações matemáticas e fórmulas químicas
@@ -73,7 +71,7 @@ Adicionar fórmulas químicas e equações matemáticas no editor de texto rico 
 **Figura 5 - Adicionando fórmulas químicas.**
 
 | |image11|
-** Figura 6 - Escrevendo fórmulas matemáticas com o ponteiro do mouse.**
+**Figura 6 - Escrevendo fórmulas matemáticas com o ponteiro do mouse.**
 
 | |image12| 
 **Figura 7 - Ao inserir a fórmula em LaTex "$$\\psi=-\\frac{1}{\\varphi}$$ " o editor reconhece a fórmula da figura.**
@@ -103,7 +101,8 @@ Precisamos agora vincular o componente editor de texto rico com o campo "conteud
 ~~~~~~~~~~~~~~~~~~~
 
 O Editor de texto rico converte todo o seu conteúdo para HTML, por isso, se não tiver um tratamento no campo que irá exibir o conteúdo, ele ficará como na Figura 11.
-|image16|\ **Figura 11 - Exibição do conteúdo do texto rico sem tratamento.**
+| |image16|
+**Figura 11 - Exibição do conteúdo do texto rico sem tratamento.**
  
 
 Para evitar isso, precisamos adicionar a propriedade "Vincular HTML"(ng-bind-html do AngularJS) ao campo conteúdo da grid. Seguindo os passos da Figura 12: selecione a grid (1), clique no item "conteúdo" da aba Propriedades (2), procure a propriedade "Vincular HTML" ou insira usando a propriedade "Nova Propriedade" e adicione o comando para renderizar o HTML abaixo (3)::
@@ -127,7 +126,7 @@ Clique no botão "Novo", informe um destinatário e um conteúdo formatado como 
  
 
 | |image19| 
-** Figura 14 - Inserindo um conteúdo formatado no editor de texto rico.**
+**Figura 14 - Inserindo um conteúdo formatado no editor de texto rico.**
 
 | |image20|
 **Figura 15 - Exibição do conteúdo renderizado na grid.**
